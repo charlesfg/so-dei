@@ -24,18 +24,20 @@ Em concreto tem as seguintes funcionalidades:
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
+
 #include "log.h"
 
 
-Logger *logger;
+
 
 int main(int argc, char *argv[]){
 
+    
+    LOG("Inicializando o Sistema ...");
 
-    logger = get_logger_instance();
-    log_event(logger, "Inicializando o Sistema ...");
 
-    log_event(logger, "Finalizando o Sistema, removendo recursos!");
-    close_logger(logger);
+    LOG("Finalizando o Sistema, removendo recursos!");
+    close_logger();
+
     return 0;
 }

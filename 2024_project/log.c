@@ -5,6 +5,8 @@
 #include <time.h>
 #include <pthread.h>
 
+
+
 // Função para obter a instância única do logger
 Logger *get_logger_instance() {
     static Logger *logger = NULL;
@@ -47,7 +49,8 @@ void log_event(Logger *logger, const char *format, ...) {
     fprintf(logger->file, "%s ", timestamp);
     vfprintf(logger->file, format, args);
     fprintf(logger->file, "\n");
-    fflush(logger->file); // Limpar o buffer para garantir a escrita imediata
+    // Limpar o buffer para garantir a escrita imediata
+    fflush(logger->file); 
 
     // Imprimir no stdout
     printf("%s ", timestamp);
@@ -62,7 +65,7 @@ void log_event(Logger *logger, const char *format, ...) {
 }
 
 // Finalizar o logger
-void close_logger(Logger *logger) {
+void close_logger() {
     fclose(logger->file);
     pthread_mutex_destroy(&(logger->lock));
     free(logger);
