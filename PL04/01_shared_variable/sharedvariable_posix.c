@@ -50,7 +50,7 @@ int main(int argc, char *argv[])
 		exit(1);
 	}
 
-	// Attach shared memory
+	// Attach shared memory	
 	if ((shared_var = (int *) shmat(shmid, NULL, 0)) == (int*)-1) {
 		perror("Shmat error!");
 		printf("Errno == %d\n", errno);

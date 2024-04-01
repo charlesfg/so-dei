@@ -9,7 +9,7 @@
 
 // Função para obter a instância única do logger
 Logger *get_logger_instance() {
-    static Logger *logger = NULL;
+    
     if (logger == NULL) {
         logger = (Logger *)malloc(sizeof(Logger));
         if (logger == NULL) {

@@ -30,7 +30,7 @@ static Logger *logger;
         if (!logger) { \
             logger = get_logger_instance(); \
         } \
-        log_event(logger, fmt "\n", __VA_ARGS__); \
+        log_event(logger, "%s:%d: "fmt"\n",  __FILE__, __LINE__ __VA_ARGS__); \
     } while (0)
 
 

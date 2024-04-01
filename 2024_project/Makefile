@@ -7,6 +7,19 @@
 # - Prerequisites are files that are used as input to create a target.
 # - A recipe is an action that 'make' takes to build a target from the prerequisites.
 
+# -- Automatic Variables:
+# https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html
+# $@: Represents the target of the rule. It typically refers to the file being generated.
+# $<: Represents the first prerequisite of the rule. It refers to the first dependency of the target.
+# $^: Represents all the prerequisites of the rule. It refers to all dependencies of the target.
+# $: Represents the stem of the target file name. It is useful when dealing with pattern rules.
+# $?: Represents all the prerequisites that are newer than the target. It refers to dependencies that have been modified more recently than the target.
+# $^: Represents all the prerequisites of the rule. It refers to all dependencies of the target.
+# $: Represents the directory part of the target file name.
+# $*: Represents the stem of the target file name. It is similar to $, but does not include the file extension.
+# $(@D): Represents the directory part of the target file name.
+# $(@F): Represents the file part of the target file name.
+
 # Comments start with a # and go to the end of the line.
 
 # Here we define variables that we can use later in the Makefile.
@@ -19,7 +32,8 @@ CC=gcc
 # -Wall tells the compiler to give verbose warnings.
 # -g tells the compiler to include debugging information in the executable.
 CFLAGS=-Wall -g
-SOURCES= sys_manager.c log.c
+SOURCES= sys_manager.c log.c config.c semlib.c ipc.c
+# auth_request_manager.c monitor_engine.c
 
 OBJECTS=$(SOURCES:.c=.o)
 
@@ -46,6 +60,12 @@ $(TARGET): $(OBJECTS)
 
 rotate_log:
 	test -e log.txt && mv log.txt log_$(shell date +%Y%m%d_%H%M%S).txt
+
+preprocess:
+	$(CC) $(CFLAGS) -E $(SOURCES) -o $(SOURCES:.c=.i)
+
+test_config: config.c
+	$(CC) $(CFLAGS)  $< -o $@
 
 
 # The 'clean' target is used to remove files that were generated during the build.

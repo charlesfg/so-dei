@@ -26,14 +26,23 @@ Em concreto tem as seguintes funcionalidades:
 #include <unistd.h>
 
 #include "log.h"
+#include "config.h"
+#include "ipc.h"
 
 
 
+int main(int argc, char *argv[]) {
 
-int main(int argc, char *argv[]){
+    if (argc != 2) {
+        fprintf(stderr, "Uso: %s {config-file}\n", argv[0]);
+        return EXIT_FAILURE;
+    }
 
     
     LOG("Inicializando o Sistema ...");
+
+    Config config = read_config(argv[1]);
+
 
 
     LOG("Finalizando o Sistema, removendo recursos!");
