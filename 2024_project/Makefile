@@ -14,7 +14,6 @@
 # $^: Represents all the prerequisites of the rule. It refers to all dependencies of the target.
 # $: Represents the stem of the target file name. It is useful when dealing with pattern rules.
 # $?: Represents all the prerequisites that are newer than the target. It refers to dependencies that have been modified more recently than the target.
-# $^: Represents all the prerequisites of the rule. It refers to all dependencies of the target.
 # $: Represents the directory part of the target file name.
 # $*: Represents the stem of the target file name. It is similar to $, but does not include the file extension.
 # $(@D): Represents the directory part of the target file name.
@@ -28,21 +27,34 @@
 # The 'CC' variable holds the name of the C compiler we want to use.
 CC=gcc
 
+MULTIPROCESSING=-lpthread -DREENTRANT 
+
 # The 'CFLAGS' variable holds compiler flags that we want to use.
 # -Wall tells the compiler to give verbose warnings.
 # -g tells the compiler to include debugging information in the executable.
 CFLAGS=-Wall -g
-SOURCES= sys_manager.c log.c config.c semlib.c ipc.c
+COMMONS=log.c config.c semlib.c ipc.c utils.c
+SOURCES= $(COMMONS) sys_manager.c mobile_user.c back_user.c
+SYS_MANAGER= $(COMMONS) sys_manager.c
+MOBILE_SOURCES= $(COMMONS) mobile_user.c
+BACK_SOURCES= $(COMMONS) back_user.c
 # auth_request_manager.c monitor_engine.c
 
 OBJECTS=$(SOURCES:.c=.o)
+HEADERS=$(SOURCES:.c=.h)
 
 # The 'TARGET' variable is the name of the final executable file we want to create.
 TARGET=5g_auth_platform
 
+mobile_user: 
+	$(CC) $(CFLAGS) $(MOBILE_SOURCES) -o $@ $(MULTIPROCESSING)
+
+back_user: 
+	$(CC) $(CFLAGS) $(BACK_SOURCES) -o $@ $(MULTIPROCESSING)
+
 # 'all' is a conventional target that builds everything that needs to be built.
 # Here we define it to depend on the $(TARGET), which means it will build the TARGET.
-all: $(TARGET)
+all: $(TARGET) mobile_user
 
 # This rule says how to build the target 'your_program' from 'your_program.c'.
 # The target is on the left side of the colon, and the prerequisites are on the right side.
@@ -53,19 +65,23 @@ all: $(TARGET)
 # '$^' is a special variable that means "all the prerequisites", in this case 'your_program.c'.
 # '-lm' tells the compiler to link against the math library.
 $(TARGET): $(OBJECTS)
-	$(CC) $(CFLAGS) $(OBJECTS) -o $@ -lm -lpthread
+	$(CC) $(CFLAGS) $(OBJECTS) -o $@ $(MULTIPROCESSING)
 
-.c.o: $(SOURCES)
+.c.o: $(SOURCES) $(HEADERS)
 	$(CC) $(CFLAGS) -c $< -o $@
+
+# Rule to generate .i files from .c files
+%.i: %.c
+	$(CC) $(CFLAGS) -E $< -o $@
 
 rotate_log:
 	test -e log.txt && mv log.txt log_$(shell date +%Y%m%d_%H%M%S).txt
 
-preprocess:
-	$(CC) $(CFLAGS) -E $(SOURCES) -o $(SOURCES:.c=.i)
+preprocess: $(SOURCES:.c=.i)
 
-test_config: config.c
-	$(CC) $(CFLAGS)  $< -o $@
+
+test_config: config.c log.c
+	$(CC) $(CFLAGS) -DTEST_CONFIG $^ -o $@
 
 
 # The 'clean' target is used to remove files that were generated during the build.
@@ -73,7 +89,7 @@ test_config: config.c
 # or not a real file target.
 clean:
 	# Remove the TARGET file and any file ending in a tilde (~), which are backup files.
-	rm -f $(TARGET) *~
+	rm -f $(TARGET) *~ *.o test_config *.i
 
 # 'run' is a convenience target to compile, if necessary, and run the program.
 run: $(TARGET)

@@ -25,6 +25,6 @@ typedef struct {
     int max_others_wait;
 } Config;
 
-Config read_config(const char *);
+int read_config(const char *,  Config *);
 
 #endif

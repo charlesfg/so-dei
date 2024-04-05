@@ -30,6 +30,22 @@ Em concreto tem as seguintes funcionalidades:
 #include "ipc.h"
 
 
+// Função de manipulação do sinal SIGINT
+void sigint_handler(int signum) {
+
+    //Escrever no log que o programa vai acabar
+    LOG_MSG("Recebido SIGINT. O programa vai acabar.");
+
+    // TODO: Terminar as threads Receiver e Sender
+
+    // TODO: Aguardar que todos os pedidos de autorização e comandos terminem
+
+    // TODO: Escrever no log as tarefas nas filas que não foram executadas
+
+    destroy_resources();
+    // Encerrar o programa
+    exit(EXIT_SUCCESS);
+}
 
 int main(int argc, char *argv[]) {
 
@@ -37,16 +53,16 @@ int main(int argc, char *argv[]) {
         fprintf(stderr, "Uso: %s {config-file}\n", argv[0]);
         return EXIT_FAILURE;
     }
-
     
-    LOG("Inicializando o Sistema ...");
+    LOG_MSG("Inicializando o Sistema ...");
 
-    Config config = read_config(argv[1]);
+    Config config ;
+    if (read_config(argv[1], &config) != 0) failure("Erro ao ler o ficheiro de configurações");
 
-
-
-    LOG("Finalizando o Sistema, removendo recursos!");
-    close_logger();
+    // Registra o manipulador do sinal SIGINT
+    if (signal(SIGINT, sigint_handler) == SIG_ERR) {
+        failure("Falha ao registrar o manipulador de sinal, terminando!!");
+    }
 
     return 0;
 }

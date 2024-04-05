@@ -8,16 +8,14 @@
 #include "semlib.h"
 
 
-extern int shmid;
-
-
 typedef struct {
     int id;
     int plafond;
 } plafond_t;
 
 
-plafond_t *users_plafond;
+extern int shmid;
+
 
 
 /*
@@ -32,13 +30,7 @@ int create_shm(int);
  *  Attach the shared memory represented by the global external variable shmid
  *  @return (void *) -1 in case of error
  */
-void *attach_shm();
+plafond_t *attach_shm();
 
-/*
- *  Delete the shared memory
- *  @param shmid
- *  @return -1 in case of error
- */
-int delete_shm(int);
 
 #endif

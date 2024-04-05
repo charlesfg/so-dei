@@ -66,6 +66,9 @@ void log_event(Logger *logger, const char *format, ...) {
 
 // Finalizar o logger
 void close_logger() {
+    if (!logger) {
+        return;
+    }
     fclose(logger->file);
     pthread_mutex_destroy(&(logger->lock));
     free(logger);

@@ -25,14 +25,21 @@ void close_logger();
 
 static Logger *logger;
 
-#define LOG(fmt, ...) \
+#define LOG_MSG(...) \
     do { \
         if (!logger) { \
             logger = get_logger_instance(); \
         } \
-        log_event(logger, "%s:%d: "fmt"\n",  __FILE__, __LINE__ __VA_ARGS__); \
+        log_event(logger, "%s:%d: " __VA_ARGS__ ,  __FILE__, __LINE__); \
     } while (0)
 
+#define LOG_FMT(fmt, ...) \
+    do { \
+        if (!logger) { \
+            logger = get_logger_instance(); \
+        } \
+        log_event(logger, "%s:%d: " fmt,  __FILE__, __LINE__, __VA_ARGS__); \
+    } while (0)
 
 #ifdef DEBUG
 #define DLOG(fmt, ...) \
