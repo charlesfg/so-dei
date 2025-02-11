@@ -54,7 +54,7 @@ back_user:
 
 # 'all' is a conventional target that builds everything that needs to be built.
 # Here we define it to depend on the $(TARGET), which means it will build the TARGET.
-all: $(TARGET) mobile_user
+all: $(TARGET) mobile_user back_user
 
 # This rule says how to build the target 'your_program' from 'your_program.c'.
 # The target is on the left side of the colon, and the prerequisites are on the right side.
@@ -89,7 +89,7 @@ test_config: config.c log.c
 # or not a real file target.
 clean:
 	# Remove the TARGET file and any file ending in a tilde (~), which are backup files.
-	rm -f $(TARGET) *~ *.o test_config *.i
+	rm -f $(TARGET) *~ *.o test_config *.i mobile_user back_user
 
 # 'run' is a convenience target to compile, if necessary, and run the program.
 run: $(TARGET)

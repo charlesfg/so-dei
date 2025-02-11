@@ -145,7 +145,8 @@ void simular_mobile_user(const MobileConf *params) {
 int main(int argc, char *argv[]) {
     // Verificar se o número de argumentos está correto
     if (argc != 7) {
-        fprintf(stderr, "Uso: %s <plafond_inicial> <num_max_pedidos> <intervalo_video> <intervalo_musica> <intervalo_social> <dados_reservar>\n", argv[0]);
+        fprintf(stderr, "Uso: %s <plafond_inicial> <num_max_pedidos> <intervalo_video> \
+        <intervalo_musica> <intervalo_social> <dados_reservar>\n", argv[0]);
         exit(EXIT_FAILURE);
     }
 
