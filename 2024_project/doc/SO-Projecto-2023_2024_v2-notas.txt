@@ -1,3 +1,0 @@
-Notas da v2 do enunciado do projeto:
-- Alteração da Fig. 1
-- Adição de mais um parâmetro ao ficheiro de configuração, para definir o número máximo de mobile users suportado
