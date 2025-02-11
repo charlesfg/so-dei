@@ -136,6 +136,7 @@ Este guia tem como objetivo ajudar os alunos a configurarem o VSCode em suas má
 3. **Certificar-se que a rede está configurada como NAT**.
 4. **Configurar o redirecionamento de portas**:
     - Clique em **Avançado > Redirecionamento de Porta**.
+        - (ou Redes > Expert > Port Forward)
     - Adicione uma nova regra:
         - **Nome**: SSH
         - **Protocolo**: TCP
@@ -143,7 +144,7 @@ Este guia tem como objetivo ajudar os alunos a configurarem o VSCode em suas má
         - **Endereço do convidado**: 10.0.2.15 (IP padrão NAT)
         - **Porta do convidado**: 22
 5. **Iniciar a VM** novamente.
-
+ 
 ---
 
 ### Passo 3: Configurar o Host Windows
