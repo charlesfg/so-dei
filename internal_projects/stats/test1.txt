@@ -1,0 +1,141 @@
+PoW, difficulty 3,  block: "Block A"
+Nonce: 3125
+Hash: 000bdc0ba5423ab9e77cd21e1af80ad580a3e2d70102479e43ceb777fa80fc71
+Elapsed Time: 0.0149 seconds
+Operations: 3125
+Hash Rate: 209058.07 ops/sec
+
+PoW, difficulty 3,  block: "Transaction from Alice to Bob"
+Nonce: 5997
+000d22053373f9623dae3cd49bb9e72b93792641c12d42bd804e7e7dce21868f
+Hash: 
+Elapsed Time: 0.0177 seconds
+Operations: 5997
+Hash Rate: 338717.88 ops/sec
+
+PoW, difficulty 3,  block: "A much longer block containing multiple transactions and metadata"
+Nonce: 1761
+Hash: 000faf7c85ac30f3ad96583bb8d66c73e8ed5f2d4b0f9b11c3080c0c5876f94b
+Elapsed Time: 0.0044 seconds
+Operations: 1761
+Hash Rate: 403991.74 ops/sec
+
+PoW, difficulty 3,  block: "Minimal"
+Nonce: 977
+Hash: 0002da060625d32cbd58df1e5cc81cfec6cc2ac382afb4cf2da7ec05cf40aeeb
+Elapsed Time: 0.0025 seconds
+Operations: 977
+Hash Rate: 393634.17 ops/sec
+
+PoW, difficulty 3,  block: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+Nonce: 9838
+Hash: 00087179917875b0ed0a5c159851facdbe9ec118cd6772385964da337a6b1000
+Elapsed Time: 0.0462 seconds
+Operations: 9838
+Hash Rate: 213100.55 ops/sec
+
+PoW, difficulty 4,  block: "Block A"
+Nonce: 228866
+Hash: 00009dafc50343cc20db6575dfc11e15bdf457438bcf1995861037118d4b940a
+Elapsed Time: 0.4335 seconds
+Operations: 228866
+Hash Rate: 527999.19 ops/sec
+
+PoW, difficulty 4,  block: "Transaction from Alice to Bob"
+Nonce: 122583
+Hash: 0000fea20c9b3a12f063219712a56c9d25ee122b3e34964a3d4e971d9431afb5
+Elapsed Time: 0.3539 seconds
+Operations: 122583
+Hash Rate: 346330.53 ops/sec
+
+PoW, difficulty 4,  block: "A much longer block containing multiple transactions and metadata"
+Nonce: 2300
+Hash: 0000c58cbb8fbb164c991dfcbe8fdfa2b77438e5179f0c0644885d74b0f6c197
+Elapsed Time: 0.0046 seconds
+Operations: 2300
+Hash Rate: 502622.38 ops/sec
+
+PoW, difficulty 4,  block: "Minimal"
+Nonce: 28521
+Hash: 00008e0735987977da45bfccef8ee6312f8df3f7cb0644811c4be3a3b0d83ed0
+Elapsed Time: 0.0573 seconds
+Operations: 28521
+Hash Rate: 497774.75 ops/sec
+
+PoW, difficulty 4,  block: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+Nonce: 55649
+Hash: 0000d5b2b9412bf09f18080e095e540a917393d79781c9a62eec83bd24620eab
+Elapsed Time: 0.1119 seconds
+Operations: 55649
+Hash Rate: 497492.38 ops/sec
+
+PoW, difficulty 5,  block: "Block A"
+Nonce: 340013
+Hash: 00000388ccbaff86eea49149051e1be35366a95b7bc791975400fab1e47d7a4d
+Elapsed Time: 0.6466 seconds
+Operations: 340013
+Hash Rate: 525855.64 ops/sec
+
+PoW, difficulty 5,  block: "Transaction from Alice to Bob"
+Nonce: 992952
+Hash: 00000f6201e562b24fa3e8724d12826f6e00ee0421678a750bb18a2f12c3d897
+Elapsed Time: 1.9482 seconds
+Operations: 992952
+Hash Rate: 509672.70 ops/sec
+
+PoW, difficulty 5,  block: "A much longer block containing multiple transactions and metadata"
+Nonce: 1439009
+Hash: 00000c1581d0c05d85c2ce0b9ff902c4c39d68dfcfef816ea3b5917c8376f154
+Elapsed Time: 2.8917 seconds
+Operations: 1439009
+Hash Rate: 497630.99 ops/sec
+
+PoW, difficulty 5,  block: "Minimal"
+Nonce: 1777750
+Hash: 00000e3c76a148899136e25142649989733e4a9b07e4e49e09e0d92afb1fd4e2
+Elapsed Time: 3.3679 seconds
+Operations: 1777750
+Hash Rate: 527844.91 ops/sec
+
+PoW, difficulty 5,  block: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+Nonce: 1812000
+Hash: 00000e206eab22d00f2a2d93482ef66acec2de1ea9a54bd27c5c3656ec621df7
+Elapsed Time: 3.4895 seconds
+Operations: 1812000
+Hash Rate: 519276.12 ops/sec
+
+PoW, difficulty 6,  block: "Block A"
+Nonce: 4964856
+Hash: 00000092a1e0ada8dce5ede58246688f4ace1ed8f3de369881ced6daba0ebf7e
+Elapsed Time: 9.4038 seconds
+Operations: 4964856
+Hash Rate: 527960.89 ops/sec
+
+PoW, difficulty 6,  block: "Transaction from Alice to Bob"
+Nonce: 16602845
+Hash: 000000facebb7c4c108d4160977578b2b1ffc5a9255d5d07bd1e64947ddf9289
+Elapsed Time: 31.4371 seconds
+Operations: 16602845
+Hash Rate: 528128.84 ops/sec
+
+PoW, difficulty 6,  block: "A much longer block containing multiple transactions and metadata"
+Nonce: 10119623
+Hash: 0000008a6848dbb11ed735e113d3c0605413e9eb0ba990ba7572dae241527fce
+Elapsed Time: 19.5869 seconds
+Operations: 10119623
+Hash Rate: 516652.21 ops/sec
+
+PoW, difficulty 6,  block: "Minimal"
+Nonce: 23503033
+Hash: 000000fdf6ea2b4ed5967b633c98bc1f063f019be6e1be1a9f3b277b7ba32127
+Elapsed Time: 45.5830 seconds
+Operations: 23503033
+Hash Rate: 515610.13 ops/sec
+
+PoW, difficulty 6,  block: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+Nonce: 2584492
+Hash: 000000d7c85b6abab0392ac1564c273c0141c8ee973992aabaeec68ce0138d0b
+Elapsed Time: 5.2660 seconds
+Operations: 2584492
+Hash Rate: 490785.01 ops/sec
+bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)

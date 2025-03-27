@@ -1,0 +1,119 @@
+
+PoW, difficulty 4,  block: "Block A"
+Nonce: 228866
+Hash: 00009dafc50343cc20db6575dfc11e15bdf457438bcf1995861037118d4b940a
+Elapsed Time: 0.4619 seconds
+Operations: 228866
+Hash Rate: 495483.91 ops/sec
+
+PoW, difficulty 4,  block: "Transaction from Alice to Bob"
+Nonce: 122583
+Hash: 0000fea20c9b3a12f063219712a56c9d25ee122b3e34964a3d4e971d9431afb5
+Elapsed Time: 0.2371 seconds
+Operations: 122583
+Hash Rate: 517046.77 ops/sec
+
+PoW, difficulty 4,  block: "A much longer block containing multiple transactions and metadata"
+Nonce: 2300
+Hash: 0000c58cbb8fbb164c991dfcbe8fdfa2b77438e5179f0c0644885d74b0f6c197
+Elapsed Time: 0.0044 seconds
+Operations: 2300
+Hash Rate: 520597.56 ops/sec
+
+PoW, difficulty 4,  block: "Minimal"
+Nonce: 28521
+Hash: 00008e0735987977da45bfccef8ee6312f8df3f7cb0644811c4be3a3b0d83ed0
+Elapsed Time: 0.0541 seconds
+Operations: 28521
+Hash Rate: 527599.99 ops/sec
+
+PoW, difficulty 4,  block: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+Nonce: 55649
+Hash: 0000d5b2b9412bf09f18080e095e540a917393d79781c9a62eec83bd24620eab
+Elapsed Time: 0.1072 seconds
+Operations: 55649
+Hash Rate: 519220.36 ops/sec
+
+PoW, difficulty 5,  block: "Block A"
+Nonce: 340013
+Hash: 00000388ccbaff86eea49149051e1be35366a95b7bc791975400fab1e47d7a4d
+Elapsed Time: 0.6477 seconds
+Operations: 340013
+Hash Rate: 524989.31 ops/sec
+
+PoW, difficulty 5,  block: "Transaction from Alice to Bob"
+Nonce: 992952
+Hash: 00000f6201e562b24fa3e8724d12826f6e00ee0421678a750bb18a2f12c3d897
+Elapsed Time: 1.8681 seconds
+Operations: 992952
+Hash Rate: 531516.21 ops/sec
+
+PoW, difficulty 5,  block: "A much longer block containing multiple transactions and metadata"
+Nonce: 1439009
+Hash: 00000c1581d0c05d85c2ce0b9ff902c4c39d68dfcfef816ea3b5917c8376f154
+Elapsed Time: 2.8480 seconds
+Operations: 1439009
+Hash Rate: 505276.93 ops/sec
+
+PoW, difficulty 5,  block: "Minimal"
+Nonce: 1777750
+Hash: 00000e3c76a148899136e25142649989733e4a9b07e4e49e09e0d92afb1fd4e2
+Elapsed Time: 3.5955 seconds
+Operations: 1777750
+Hash Rate: 494432.68 ops/sec
+
+PoW, difficulty 5,  block: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+Nonce: 1812000
+Hash: 00000e206eab22d00f2a2d93482ef66acec2de1ea9a54bd27c5c3656ec621df7
+Elapsed Time: 3.5320 seconds
+Operations: 1812000
+Hash Rate: 513024.07 ops/sec
+
+PoW, difficulty 6,  block: "Block A"
+Nonce: 4964856
+Hash: 00000092a1e0ada8dce5ede58246688f4ace1ed8f3de369881ced6daba0ebf7e
+Elapsed Time: 9.7265 seconds
+Operations: 4964856
+Hash Rate: 510444.94 ops/sec
+
+PoW, difficulty 6,  block: "Transaction from Alice to Bob"
+Nonce: 16602845
+Hash: 000000facebb7c4c108d4160977578b2b1ffc5a9255d5d07bd1e64947ddf9289
+Elapsed Time: 32.7456 seconds
+Operations: 16602845
+Hash Rate: 507025.05 ops/sec
+
+PoW, difficulty 6,  block: "A much longer block containing multiple transactions and metadata"
+Nonce: 10119623
+Hash: 0000008a6848dbb11ed735e113d3c0605413e9eb0ba990ba7572dae241527fce
+Elapsed Time: 19.9468 seconds
+Operations: 10119623
+Hash Rate: 507330.85 ops/sec
+
+PoW, difficulty 6,  block: "Minimal"
+Nonce: 23503033
+Hash: 000000fdf6ea2b4ed5967b633c98bc1f063f019be6e1be1a9f3b277b7ba32127
+Elapsed Time: 45.6871 seconds
+Operations: 23503033
+Hash Rate: 514434.55 ops/sec
+
+PoW, difficulty 6,  block: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+Nonce: 2584492
+Hash: 000000d7c85b6abab0392ac1564c273c0141c8ee973992aabaeec68ce0138d0b
+Elapsed Time: 5.1548 seconds
+Operations: 2584492
+Hash Rate: 501374.25 ops/sec
+
+PoW, difficulty 7,  block: "Block A"
+Nonce: 292996996
+Hash: 000000077c9de48153a7e754cce814f646dd67a666e40ecd84c158f0528f0fab
+Elapsed Time: 595.9249 seconds
+Operations: 292996996
+Hash Rate: 491667.65 ops/sec
+
+PoW, difficulty 7,  block: "Transaction from Alice to Bob"
+Nonce: 651695073
+Hash: 0000000c4f90c718bf5a7e8d2d373db4a6031038cea4d644ba9c025d19bb8925
+Elapsed Time: 1339.7132 seconds
+Operations: 651695073
+Hash Rate: 486443.72 ops/sec

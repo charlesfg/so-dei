@@ -1,0 +1,3696 @@
+
+PoW, difficulty 1,  block: "ceTGHXSjx4Yh3oVp2W4g1182Y2rKOBNpdgvk1BIn6gKzKfdD0VhrMfhiWMtkN4PqZ9OQAW343DsBhLEXejErDjNZv6961NmQM0eMNYHEbzF68ITarVFs4THnPFjESJUcAzoLLtNkgShcY03GK8yEP4qf9PjPZ2rXpVg0Dtah978Yw1c6xO8DIog"
+Nonce: 27741
+Hash: 000082d349a3d4dfe63a89cd33757b3d2439a14e18f956e6cdb7e76d0f3b206c
+Elapsed Time: 0.1166 seconds
+Operations: 27741
+Hash Rate: 237938.40 ops/sec
+
+PoW, difficulty 1,  block: "2DUP5BkkVGYYxx5ws1IeqkYezXf599BzCVC8Xkgso5Ebq7MYzU3f3P7smalkZmXc6YYT849nxDEd8O2xjtTa8OIjprHEUcgO04fzxeckfeCdt2PQjgqfuwCZbJetm87a1cPo6pMZIO1zEGDnmtJWdLu4TOo3KjTBChp6K2WSENHJTKu313NSD7LUJxNUWeVY9BVK1pa52gCJqxAgoNyrL79SuKmFn8dm7wuybLrRruYVhY1Jk"
+Nounce 100000
+Nounce 200000
+Nonce: 229059
+Hash: 00002e7445832c203bce603c77a98439e20e49707d147cbac97b47a1e113e37e
+Elapsed Time: 0.5927 seconds
+Operations: 229059
+Hash Rate: 386459.19 ops/sec
+
+PoW, difficulty 1,  block: "ztjyBU9oZmk0Mhl7TAG8QvsoGNB6XliMUH8VZ77whhnuCMrVMvUcgAHkMIejrCtBIpUhnSSIz522HhLRSduwezXq51Nm24n8j7dKNvTDoL3ttEB9ivwAiHod61FwtqsSlMdz5w0k5tTmvUkRDUPlb3EV"
+Nounce 100000
+Nonce: 155225
+Hash: 000041d00a12b1c1fdad875d75fd4cdd47c9af1b5c4894ece458350e9e556d5b
+Elapsed Time: 0.3951 seconds
+Operations: 155225
+Hash Rate: 392884.17 ops/sec
+
+PoW, difficulty 1,  block: "HIbx0uXALK65AgyrxbaIBsJV5vuzxFh5L9qArDA0L4vLYj0M8RS97bS2MApAEN3NKjNzlMpwGa6f7up69736YKxlKajMlaav9liixNT2lPVj7Ad75W1Teo2pDZzozPYzz6VkKoct1vSztvwoGn8kQ0NTQB5FQT2DQOoY2GHs0YhjHTOL4KwKA7bO8XSNqIQ4W4QN9W5zuaWzriBlsvurqL5pgL0LUGDo9Uz6qstYIFLzoKZU5JBm"
+Nonce: 65940
+Hash: 000025090ca1ff3ce77290ae8b7f98dcb8b12625f99b15a640e5ac5eccb46a0d
+Elapsed Time: 0.1730 seconds
+Operations: 65940
+Hash Rate: 381222.18 ops/sec
+
+PoW, difficulty 1,  block: "7PzGFAYJBDGV0A9jtVpxhdZp2tlBvLTqaGudEJmGMrZCrZjbsPMNsl3kSejDn0rD7cgBlGHvxhvf4T4mgGyOprw7JT9wJoxGERGnXLYJsImkbeL7k9JNq3IxMHhTuUYylec6pyDW6p6VJHQrEX4uQDfaICu2UGp5kH0N53j0heJojYUovMWCN2aW2IMNO1"
+Nonce: 26542
+Hash: 0000347e10ba451ab3a4ece156df16836ac2352350ac40ca32d3a3d39f215b6d
+Elapsed Time: 0.0684 seconds
+Operations: 26542
+Hash Rate: 388086.33 ops/sec
+
+PoW, difficulty 1,  block: "w6682yhqT9x5jLPN7ch7pZX9SeMdqBjd8gbyS6el4PgdbuoYMLVzjqzzI9Sz81Q6VpsllKMfar61ZiNjsgYRMLETIUIHLWBfBuGk2RGS6AJVjW2R0QgBaiUg2alBwngxVlVN0bewalF967OwLsxjQHGIfrHRSoCnNYzDxRxN20KwxWj6CWgSckY7RgNkINLVl8WXPJ"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nonce: 302221
+Hash: 00001c470d93fe53183f7ebe341581391ec0c81c39dbe7c90b1935d63c393fa3
+Elapsed Time: 0.7826 seconds
+Operations: 302221
+Hash Rate: 386199.26 ops/sec
+
+PoW, difficulty 1,  block: "G9r2uBZqEwKWMsvHAPUiXgrqFqCc3L97Kq04rPiv9rGJZzRXEj5bFnHLRHlKSkIaO6S6JypHfvO3kfQmDKBGvGPCN1KfZQ5mKNiUCLZf5nYdHnGKxHOiOeibTs5q90SJCybCA0f3e4WlfctQi7ywZWLqCGXB5nJ5ck5aZaT3SpcxGLDoGzYeLjKMohNjJUcl5XBSxSLG7l3Bu5p0uDS4ndGR8RyHmQsfnrxa96e5fW6PRkD9nW"
+Nounce 100000
+Nonce: 148815
+Hash: 000038743bb222dd54384f46b1f2edc2e6c60eea3702e9a9694c16d848c9fbf8
+Elapsed Time: 0.3848 seconds
+Operations: 148815
+Hash Rate: 386761.51 ops/sec
+
+PoW, difficulty 1,  block: "Oz7dvPR3zfjSGRDhO99HcVCrmmskPEbc1Z5nmLeZoDrvSuQfrPmJloyLQgvejN4akxBM6fjlhQWx8kSpz3wYhkkwETOneIEC5DM2hvdCBxz7XIkKBWjg4HS9agm3mo5isIYN3zP3mE07KbHJvoqqv6nMbNDD26liC9v4y8xYClTNAZUuD8Yz5B9UOCXE67k94T3rRqFUPXfOwx8zwWopVn9hn"
+Nonce: 15005
+Hash: 0000356655008abeb7a82c4529e9afa446dff6b5b13fade9273c5c8df8e896a4
+Elapsed Time: 0.0386 seconds
+Operations: 15005
+Hash Rate: 388348.26 ops/sec
+
+PoW, difficulty 1,  block: "mkRKjMec3vG6DTTghFUd5GxhvILuqwEQWWa3i2VZoZVptpMOugsnkdLVmUDQGFedZ2W5vqUXFqAwTMBBsrpQKyluIm8OqcpFTABCqTZt9XgQkfSQK5hStGDzr9DXarctrbvVvICsfi9DBPUJKzc15dqmcr72YYjDzSWkaZT45Q77fPEnEgeA7KkazgQM4yPtGmSf9jZ4zU1Sk65oaZmYhLwUrAglyuS5UkaTJxN6HD"
+Nonce: 79035
+Hash: 00009ae26b6b5fcf1d78ba76b88bec4ff5253978228663e26bda113b9b7e2fb6
+Elapsed Time: 0.2035 seconds
+Operations: 79035
+Hash Rate: 388292.52 ops/sec
+
+PoW, difficulty 1,  block: "r9HUXe6v9FfUwg0VUimP2MnLUaZOicbPZijwBegAjBSUhJn0pPFiartsHG6piV352aq32K1aJKurRVf6jie9PMrXSlAz53uxSaoKifkspSX6o21NaVKqhzByaBnV3XGLwuVUQ4C3MZyyRp9q8JWe8XSXW5qPQvaCfuVtoXnyvZnACkqAuCeqXuBupq94bY66IPounRiWoJWquDqcDJIb3IJhyI"
+Nounce 100000
+Nonce: 102082
+Hash: 0000446c55421bb1cdb5185fe2150e6333269d3eeab7d8053325901e541512fa
+Elapsed Time: 0.2630 seconds
+Operations: 102082
+Hash Rate: 388088.41 ops/sec
+
+PoW, difficulty 1,  block: "PeVJmlxWMC3iqC2Uw39O7IVW9dfePl3eENlqyXB8X4eC6WWtOV5LbQfZr836hvYl8ASuVRqsLKuHeFysas108WPqUIk039bz7rjS8P8HXrN2w9iKraAouPSDW23N1UDwAmC60BENqRDcQkk8Alksy2vKumYk7bW5BZ1zY5BEKEgZoEVmp5VexEohr"
+Nonce: 30020
+Hash: 000059a80ba20a19c027a198890a2c650b697b9d8f0adc4a3096d1601c7c50db
+Elapsed Time: 0.0783 seconds
+Operations: 30020
+Hash Rate: 383313.97 ops/sec
+
+PoW, difficulty 1,  block: "Hmbchb1WQPQRTaUxz61KjfF2724lYjkdLB5qawDr9T6SrQDhL3psYvkTlc29CcdLcY22J3hIKeZ1saW3TClpvJ6WmzUmRvxtHnmQgJXqluiUK2Lc4xFp6CAg1UGGD40KhaZChwsJeObmHmEBZIpUKpy975FAx3KSTjU1TD8vPXYW9cWXkBpsobrlUvlHota6RsxivtU9GsVDIparqDXSfD3zyc7aKVWb"
+Nounce 100000
+Nonce: 142011
+Hash: 00007d89a8bb2623bfb629cb72f3ea7d637aeef534f24402b7d97b8b3f517d79
+Elapsed Time: 0.3682 seconds
+Operations: 142011
+Hash Rate: 385686.70 ops/sec
+
+PoW, difficulty 1,  block: "J7x0Ru47F8EvWvZaGq5Jhu7ApYI8shA0evquflpihtR3crTjVOs27o0kA8jsfhi8SNqvwVTTFlMfQgClstdnXUOVQvBuSisivYRfriyuJAQXeS6LBYyWqCp6vrqDNWj6sybaXPKeNa0qrw1qKpDysqvdVZfiuCec152MIDqWbgAIR1zZg0OOg7q2WJYGL3hAwZK5azP2VP8kGvAmj"
+Nonce: 70829
+Hash: 00002b7c1c0f846938dd8f5f25ba81cc45af298696406484913433672d6f6492
+Elapsed Time: 0.1829 seconds
+Operations: 70829
+Hash Rate: 387272.27 ops/sec
+
+PoW, difficulty 1,  block: "zGLd6fmUkvLHu8e415tEvDRtlVfl5EzsI8LCevVEfeJPanHPgzTR0kBb3eDzg0hnxtpRc8T7daK1DSHkFaz390U2SVpzKNa74DMUCdSd3cU4sbcv0SoxG9nZSTMcemXWphqp88IzZbsF0K1qafdhcF4vYEL0qhMTC29BzF0OgiRXrIBHmdmEigx4i7uOe6gewffliUxD2FYhLZpx0P0WunQSkAhC4BhpeAQCUCDLFbsOzVCpl2CVdQ"
+Nounce 100000
+Nonce: 128023
+Hash: 0000158a79c6a7ce3510a14dda55efdb75ffe1438b2fd898e62ebd9ca6854299
+Elapsed Time: 0.3362 seconds
+Operations: 128023
+Hash Rate: 380833.82 ops/sec
+
+PoW, difficulty 1,  block: "CPIEJJjwniDo0DrBGHsU6BWjmMj5o0hqFnsMvQ9WyAAoBqoHxWbtXwQ8601kqYQtC73vN2HB0Gn1wR6jlWQ7Ie3CUul8J1rJwl49bB8QFmF11CYdYmYeHRebBFaK5FRrqJrGJpWOPbGHbckxF8PKPulOz9XsFoatyFx7sHJ8jNF8qnwtjB3wvcAjcXRfArMwuAr"
+Nounce 100000
+Nounce 200000
+Nonce: 231553
+Hash: 00003303d51e934d8af3d80189140914029c7074b597876283438a489d2f99fe
+Elapsed Time: 0.5976 seconds
+Operations: 231553
+Hash Rate: 387498.14 ops/sec
+
+PoW, difficulty 1,  block: "H0ZoEensFXboYUYIwWrMu6psm2eW0Lx59MiDqJvtgKV2etAPGpZymFgO58ivJWoGiKKNT36xESqgBotFUJ34MXGHVo0cAejjprw6kqum8aHAC0DU77OJSUQo7GE7jneOSOI352d1QkzTZ3nWy0gGIuuF1xBYadmrqskjlBa1kOI9HuV5kzBqkuuZhtx5KXm0FKXqKwguAmtHWCA409latTzOCmIM7sBC1YtBKNtIz"
+Nounce 100000
+Nounce 200000
+Nonce: 240034
+Hash: 00001628e705236902b89bd9f88251555588a2703c692cf9a9d9963ab7221956
+Elapsed Time: 0.6203 seconds
+Operations: 240034
+Hash Rate: 386953.77 ops/sec
+
+PoW, difficulty 1,  block: "PMcNESNnq46dJ6DPHA7IDweuxn5gvu694XM9nZkSUhvbbzoizlq0YLkJwfohOkgI5rFhEozYLkxmZbLNBzDX8meuFIQTruambdJgH62Qho34DCFCzHZwt4gyAuGrfgS49ZYFWPV11Mv4M17C8UypMSbNBh4eBKW9kvE68ZxzmgryVoyR7k6J3WW23PW3Zs29b63ZVoM5J4ueggwdHqn8C904MMxm4pjWjbt4F60M0irWEb0JFbHI"
+Nounce 100000
+Nonce: 141150
+Hash: 00002fe47ba9843773a6d889fbc85a7165ba9ec4d40a8ebf4c2d059df133f4db
+Elapsed Time: 0.3705 seconds
+Operations: 141150
+Hash Rate: 380963.43 ops/sec
+
+PoW, difficulty 1,  block: "7AlJvNCauW7LD1P9pbxLGIOf6XlXfrvcrWkchk0S4xb7mo5QGsbKypquDRFg816nLeDrE176mY4ODzeHf4PUj5CkKIGI7BtIfwxilueNHWcIL4Npwc9WWB4gH9nEAWLfH8Bsrg6w2W2COFrBfoV1nNWvM9zMVAqa7rJmLDYEXOEjRviwZ3mCH8vR7lcQjGpgvwI7ze9KsDr9wQuLHULOS7"
+Nonce: 6427
+Hash: 0000543ca2902bdc2f6668d7715f2b85d482907b3abb0fc634a7d254fa256c4e
+Elapsed Time: 0.0165 seconds
+Operations: 6427
+Hash Rate: 389585.99 ops/sec
+
+PoW, difficulty 1,  block: "Ng6bFCGkx0ssnLrx1sfzevjn23zFJuhUQbvTd03Oqk7UtmFkViZzR6dIzQL68sQMJCfk0Zwe7twqU2Qpaocqk5yYJ9UHrlTylxYbKI5H2sxKiBx6pPmOJamSX6YChp0IcMhmVbtLJeVpeIlHVOVem7vA2JCZy1gPDD1Welhl"
+Nounce 100000
+Nonce: 112027
+Hash: 00007e8a40e712b2ee84e948e0fb0a22e024b3ef31dc74f6105880efc00e7733
+Elapsed Time: 0.2847 seconds
+Operations: 112027
+Hash Rate: 393440.26 ops/sec
+
+PoW, difficulty 1,  block: "0Qh60pQCAso6dmykpLXermhtd2LCXxGMBnIzQW1RFeLiG7HtIeNyEthhlqi8boKdPRQenGtqk4Po1UW7yhv2QQXz73wWf6xvLENxK6ds0qWpAsmwOWmek8Uf1E2XApGKtT51NYjDD6qBmQw0mWTLUlqKpifnMjv"
+Nonce: 15031
+Hash: 00003e05cb15d13ff62deb0e297d2364b19123081105ae99ae0d75349eaec010
+Elapsed Time: 0.0384 seconds
+Operations: 15031
+Hash Rate: 391513.86 ops/sec
+
+PoW, difficulty 1,  block: "2qvDDUGGOuF1AzplM6wehaoK7HyJqjCgOxjRInVUXaLWQz7avr4RHhbEoNLTxOzB9ZQFAlaY9juNYpnIUgZbDyepCp8x1yw1LC4LnUhm4P0Q2bYM7voAkGomvmZlYJcjLWtypOYjeOzWoMjl7LkfROFA0clNlBuwWdiBq7iKJVexfBZbM96"
+Nonce: 13704
+Hash: 00004af02e50122dff9a5b1f2423d52baaa5a69e7f6a93c0fe1a2f4efebba8e2
+Elapsed Time: 0.0356 seconds
+Operations: 13704
+Hash Rate: 385095.26 ops/sec
+
+PoW, difficulty 1,  block: "LCcBeBOGD70XaZWEW4OfNrRtsoK3nGUyGuxjwAnx7dIV0eaMWmqjT5SAja3MfL8j4tIorvZmNh6DBUOX624OxLMWlDgGMcqGJwu1gJbtoXupr6Amy5yjGA3pBZuNzaU9KC0qKRXynGcUCa4zVsWZqQFrnx3dLLcVNQAVhXKKdkdeAXRUElru1uafh"
+Nonce: 17478
+Hash: 00006c06f932bb4d48bc09ffaa8138d3031114186f231fe632f28e703646a7ae
+Elapsed Time: 0.0452 seconds
+Operations: 17478
+Hash Rate: 387049.63 ops/sec
+
+PoW, difficulty 1,  block: "6scYEpoEBJZJS1rvTrGkBILt1BbRe9gar8ytlavkjLt1CakVGp3FxCwoDO3fNZ54Xrm9HXjpiRgipF1vuuzfvlIwzBSCZL5u3hr82PnbeI7JNz35hsaSRiDHiTH5eCnVhVUai7zCFwLQlCLHskXAIaFotMhON"
+Nonce: 53884
+Hash: 0000a8095b303b7b7c9222b2799f21db63519d9abcf50264facac4a50ee8d66f
+Elapsed Time: 0.1372 seconds
+Operations: 53884
+Hash Rate: 392660.39 ops/sec
+
+PoW, difficulty 1,  block: "jsg1GEz5E2sNJRQUY64u4BK9n4KLGXUnF0fM2SF6KvJRBXmXUeHOdSMHKWQOtk1wYU6OkAKtvRAwpkI7FPJifTnpp33WbtHzDBDoBLXvdVfG6nBB1IhWcLCFC3cemhRoiTSienT56w92a81RHZnhinmihEAJlSxIjDqDo77lt6bH5TYAsAhOlJwIMxQvDB3mDhnpekOOfqTY9sYpq53PCnYOYmAbl"
+Nonce: 2093
+Hash: 00009b023408ecd7c4ab5ee7639e1738a66b437905111d753d2465d37bd7490c
+Elapsed Time: 0.0054 seconds
+Operations: 2093
+Hash Rate: 388672.24 ops/sec
+
+PoW, difficulty 1,  block: "BoZpS1NgDsMXGLDcytXp8YTUmr4mHgcII1vas97wrHHwTKOF3kvz6CIirCJwgl5naqBGn60TE7FVHRa8zJyvL4S14bnbAgCaLDgy8VHCSKVaavYP3K9CER39qhYqBYEMZiBX3GXMRsmpc82VJ1XLGPKwugav4c8UB7r4BFESxo5Pnyiup45uJEe1k5mfXixWdePfjTx"
+Nonce: 99102
+Hash: 000026c9a37c763cee0f8114831d6db140871b05208c05cbdf9a3a44047ea660
+Elapsed Time: 0.2550 seconds
+Operations: 99102
+Hash Rate: 388639.87 ops/sec
+
+PoW, difficulty 1,  block: "6rihfFPI9I2GMX7vQjOlGB6jfLEDc0WYh43C9IK6RBCbW9MkhaLnbHK7QP8tFUFmM7mKFuGUtHwFE8plZzMy4XtJmr0p95PK01U6jYOTdAWi7AJUxUIrr2yTho6fiLpYA9SjVh0zfLXcLew6y3ldtauQEqvm1aBzXTXr0NgUW"
+Nounce 100000
+Nonce: 126684
+Hash: 00002067f3de112bdd3d1a94e1fcdab51ff1f8dfa61664fcacbb8b2a767e0f4c
+Elapsed Time: 0.3214 seconds
+Operations: 126684
+Hash Rate: 394183.89 ops/sec
+
+PoW, difficulty 1,  block: "whThbGaDjJdUXh8JKyhJn3aAkPOEji3VEM2fQSi0ZBIxhG4p4ZygSOg0bs4ARxWV8M0OdXC2YIn3PfiH5UnNhIC8067HsTaodR06o3xA9a2M6aU1t5CODCK27H7pYYR2pHyR8lP8AHK4gctPWvbXwlPttNWHln9OswdrVsnVyxPUO8hks85ejLNQWjW5KTH2FkhbQKuC6AWK83soznGXwTnI07B8RI1WqYv5hg7dgUlcL"
+Nonce: 34776
+Hash: 000064eb7ec726b7cd4ab3ad136dc59a82bc891644b812f7f9359dd045cd61be
+Elapsed Time: 0.0894 seconds
+Operations: 34776
+Hash Rate: 388854.10 ops/sec
+
+PoW, difficulty 1,  block: "FB4LYpd9vR7xQO5FikdSfAycbSuCs6Tx5O7T3aQorNZ5ZTA63cOWaCy2Sh4AdMwWarpRH33wFTsekqYdImzjmlZ2GT1jdn33UiIZaAJfR171iWSo6FNjqmbv4SSX3MPLsViIVsnkhlbD5ts1y3YdeyOYGgt8s6HbQqhjYLK5uj9nTpeFi3iCruYvRGr7AzWOf4y1D6uvfrYyW243ta3YLSIaWzXWmslFmX6nTpYyWwlrmfkW3dsEt0cFo"
+Nounce 100000
+Nonce: 102488
+Hash: 00009e039da4ae7d2227c28bed7fa2ead57ef68b4858200356d5d53d666f7461
+Elapsed Time: 0.2698 seconds
+Operations: 102488
+Hash Rate: 379931.34 ops/sec
+
+PoW, difficulty 1,  block: "aOg9UGWOtn3HbO3C3ffdzZ4gbmU4p8sFNMCfSYtBBlIbzBbse5JSSBytnIlTFRWQdZvvvewvF2K21liUermwtaeUgFljV6zyTiiCDSvGL57CffW9L6w2UOM1TwYosOb9w9BxRx2aqzbLSxJds3VCHg1YSQB8ec"
+Nonce: 30698
+Hash: 00002782b7e2b7de56fa83bdcca0d80b7e6e759ed9de54a3835956070912e18d
+Elapsed Time: 0.0778 seconds
+Operations: 30698
+Hash Rate: 394550.48 ops/sec
+
+PoW, difficulty 1,  block: "OZ6Cqt2Fargj7Rsb9lwCqS3FiJGglgd05a0jHsofXIFUavvZVgZBwREVaK1AqTyjroJwUvSr4VBSEvrZPFbBWfWuoMuSdi2IK94esKJkdJ2i4k7JpWI90ftepeuIAkQJjInQTv0u4tSwRQ56kD5agm2LGnRFNfOvozB5k1pek6Q1MJvuLoLpRDzVqGa2mmnOcoHCfwhEsv325pnERwtizi2epQWP39bVliXGS2I9m"
+Nounce 100000
+Nonce: 110268
+Hash: 0000930518d61cbf43655a13f4092bf0c52e1c9ec8d44af9197b5429bab06eef
+Elapsed Time: 0.2840 seconds
+Operations: 110268
+Hash Rate: 388286.75 ops/sec
+
+PoW, difficulty 1,  block: "1frcj6MQdAzVeclypevGxWoJa6Bj5llvGQLpMY4pWt80JkmyCX20rg7Ha8qUiPDofMSqiMV43UsC2Uy2pqqWKnckkG2IW5wzGEfoOzjHJRH9m51RlimvLCUvIK3cEoSKqvy5kXArpIqPDiepEGYPIq9P10r5e9FLv3EVRED4MrJQPn3RuPh06eFxUxqzuv8foCz3G0xRh4fv"
+Nounce 100000
+Nonce: 121182
+Hash: 000056934e2c01b184bd7fa6ad7e560786e42ff8d5a3f85d5b51dcf03b619466
+Elapsed Time: 0.3133 seconds
+Operations: 121182
+Hash Rate: 386737.90 ops/sec
+
+PoW, difficulty 1,  block: "WCQlhGfBKQU56JppFJSF6LLw7aR15AXRBn1isUi2l2xf9aLEjdJfmSPjtfZmfw2earDGBj8mbtIaJTcrujKW1a6i3TJWDB1ds2jtbfU2McQWtsDdRNzGltneAwzEvqhdiFK9iezv4FFlvICAT0G3jrVkdKoO0JpYMyVtQKeJNhu8nx86nDxKuJ"
+Nounce 100000
+Nonce: 131071
+Hash: 0000af9e0d7620e44e24cf8412810f5f4e42e17f76f2f1af827d909268b644bf
+Elapsed Time: 0.3407 seconds
+Operations: 131071
+Hash Rate: 384763.97 ops/sec
+
+PoW, difficulty 1,  block: "MTUYKcEgo00VGAxPOU8K7tJ2WKpe4yLGIfdQ7fukVk5ZjtpvDl5BUC3oMiIHVTLbzoruHbUcAQ2j9fUAGNBaQ2EcZKhucrLPT09bPU3PktwhMEhSShqgZs6w3eeVLnicdh3rzv6Xer4pva7B7mfUUcFL6jeFNChokbVXKQvm7p"
+Nonce: 12624
+Hash: 0000777c49afc4d53a285d37096ac4c2d5c6442773c0ead01438bbed20f1ece5
+Elapsed Time: 0.0324 seconds
+Operations: 12624
+Hash Rate: 390207.72 ops/sec
+
+PoW, difficulty 1,  block: "qDNqAzLTJnYVh5zmI0IvahGxrUgTPMl4NykMltfuX1D2w1d3rloFIs0zBXIQhrKufs6GcZzxQ0pBrI4WrgbzMSoNnveKcm46VzAvOzidoLcVSWq90HzCXbOAKqInSBhl0hWCV2d9C5SUP8TFEGGZgSaq8gROhyyXWKYpB1oDv4XA3oE7tIWPau5WRLkw9YIThg8iXkjGf4HWiJRRRlepWYBljjVi8d0d9w9VVib0cgK8pbQ4C"
+Nonce: 1973
+Hash: 000061efc46c296c0528fe7fc21dfc0548abe2fb059bf9b34da6b15bc498c979
+Elapsed Time: 0.0051 seconds
+Operations: 1973
+Hash Rate: 390229.43 ops/sec
+
+PoW, difficulty 1,  block: "jWIi5pIROEuChuygDJEe7e9HcoiqhlZG5fn1LvIXz2ZWkL0nV2GQWFYyr4fOd4TZZ6QkrY7eOUyxgoazgeF2jboRWHdzBwMZsc7Zy31BNpyrTOgztmpQBSfXZ9LZvXyc0tzmmrnyWbdqoAdVkHjlZF7yEINxf9PTtF6TwhFI7jwjhO4HVdqsgngitsWPpjiWocqY8vf5SPezdW4wxleUM926pMLUwrrYIVvGEO"
+Nounce 100000
+Nonce: 106845
+Hash: 0000571f6a6ad9083d889027a4c823b5e453ec532c00c2c0125d55be827f93e4
+Elapsed Time: 0.2763 seconds
+Operations: 106845
+Hash Rate: 386756.63 ops/sec
+
+PoW, difficulty 1,  block: "XddM5zHpmqI42Hxwu77CrntGtCzzHDyeeRoZEtDqXLlQQWCAT8CBjuFSw2F153TXK8vMpy2D9bRPxRNFNNEw5JCsBHh4A1RIxCUc0LfxkuAYCNbPZfAUmAAlIidGZuNMvfmjoGXP0Vl0jCG8fESFERqKzJRO1cYk58KkEfz"
+Nonce: 3739
+Hash: 00007b4da69707b31fa133a6004f6cd4c842f37e62613b87869bbab8d2d79dee
+Elapsed Time: 0.0096 seconds
+Operations: 3739
+Hash Rate: 388467.53 ops/sec
+
+PoW, difficulty 1,  block: "0YtXYzT31k861mGqtV2ivOJrMTPRwCKma3AyrTpi3lcuLhY40QcmejRr2g6ogEP65NskgXHY6jGHEf95tZfO9u31Oxeu1rqu4WVarcwn93sEWr7FGcRDMK3Y5XIwEwf8I0WzQHaP8IRUxOZ1qp50zyOvJUfLG8HOwdBCkbQghh0SuOKa3DPqzbb8w5J23QForEqQe4wBalS"
+Nonce: 28065
+Hash: 00002ea4f847a694e51adc4f1a61b9b36d0d0a5e74d9daf06491ebcb9fee2c8a
+Elapsed Time: 0.0724 seconds
+Operations: 28065
+Hash Rate: 387568.53 ops/sec
+
+PoW, difficulty 1,  block: "zakqdxWSNwO9pXzgl2KQ71ebtRaJ0sTnI2Tjpp12ZDzEanl9fvOcks1U7Sbx8vaHnrqQVgJuj6x8hW5DFJdo0V6xlXjjI7qvpVCAzJsYDdUlzOm5XFhLYd790gj7bNqEgsEVzvs1OAcCOC7kHcve5qbtKAqmMXqqDtA1esqqqGs5IndNFMr83JsDHWnRrS8tB8idoOJUU0Ncdqph1VfueLvjgZ1Lrz4qvaJZoQr6G5"
+Nounce 100000
+Nonce: 135016
+Hash: 0000b63ab33e0039de1f35e7c29c395559671f14252a48cb5ffbb9f56da66abc
+Elapsed Time: 0.3507 seconds
+Operations: 135016
+Hash Rate: 385035.03 ops/sec
+
+PoW, difficulty 1,  block: "kjCFYXkIzw2WQRNb6AUmvutIX9yTErsmQsrnDRv0BnMP2arwYBWItFQGDEaFvGrAyYn1nWrn812yRhlog7wQBAWCFuHy0ywmKXbxsIYq8PcPwD3T9nh8o1ArmHfa3QDDleyTlN7jcawMbodYRAW30UkabE0UU1V3UKN5VIcxgM780bWGZr9PBkpboet6VFzpPAikJ8VpLQlBr6FFnFUmn8DRavLt0AZD95lG44vFKX"
+Nonce: 19131
+Hash: 00005db1db323caa1da79da5abc4bd96fe205bfee7a548af35e3c68b411e4ba1
+Elapsed Time: 0.0496 seconds
+Operations: 19131
+Hash Rate: 385798.98 ops/sec
+
+PoW, difficulty 1,  block: "0RK52PNe2JgHjRQTFOqINjtTdnDgvYllptgh8u9y1f3buJuzXY5j7o2bP55BTek8NHdLzd7o8yFr7xeTLa2JCuiSobR56z2J4VTryQWvDbcAP4RYUJfX2Dnef2ZZrRimn1TZGpKJFkHUfZqzgMKWNx0qpQFXho7IdQij4qq9PyRuL7hpJqCXd2DHGHeovZuOpSwh9agOOv"
+Nounce 100000
+Nonce: 165893
+Hash: 000011fb2c643137ac38dc8e70c9551591750ad41d2bd3ab90d626a6d333180b
+Elapsed Time: 0.4296 seconds
+Operations: 165893
+Hash Rate: 386170.37 ops/sec
+
+PoW, difficulty 1,  block: "XtbD0HDLl5PqAUKoFhWRKpBsmcMyo8sApJBfPEry74e7OmjRJ6gTjiBL8M7kKpkzylSDn91l1TgF5GUEA1YjXXsVjp5rUeeGFxKru9SmTwpO2AR2zpZMAHfkwYPG0uN4hVlRS13jnhwgfDWUqueq17OmTesKO3EvMnAfe2CHZyl416OfqqMfnYH42yEGpGz2ryVLqXRFK079uJfYzp4aD9U6xXAdbyTJmmUS7jVH"
+Nonce: 32435
+Hash: 0000b439313e7e43405052d93ee3e5558a284a05ecba9be232e8ef7d784ea61c
+Elapsed Time: 0.0850 seconds
+Operations: 32435
+Hash Rate: 381471.55 ops/sec
+
+PoW, difficulty 1,  block: "SHIbkhOPboSa8MMTLnv964lgM1duMlIcqQ3OxHdMttlp4x9FauEUmn0wcTgm2oEg55uqAL3t3eWxRV0pD27ndxa5E6h5ljbeeKKcVBJMff7uzxX2pUgIF6BK0gFZFe3hoC98DGKhmIRb3pRj7xpDrrLgNQ5RuzyXzwV22dZcjp3d"
+Nonce: 30411
+Hash: 00008a255c3daf12ca512cfe0e103527bc674a9755d68293fcb8050e60465506
+Elapsed Time: 0.0806 seconds
+Operations: 30411
+Hash Rate: 377509.09 ops/sec
+
+PoW, difficulty 1,  block: "JAP4nQmSbGerBtayhvnRGeIh3kFgcgyleEfHUFYuL0bLjz9EklWoFeK8CPfevRDPThUmkqWugx5Fl2KJdeyi68f8L8b4NcHh9bJkGfSmQLq1DyBhSxDOtgM4clyqE5NDUWlaz1BFCp5Gd4ltrm7YJHSj"
+Nounce 100000
+Nounce 200000
+Nonce: 202659
+Hash: 00008f58b434aa50a01f0805113c11cf962f8bfa1904cf20872d45c38bace92d
+Elapsed Time: 0.5159 seconds
+Operations: 202659
+Hash Rate: 392855.07 ops/sec
+
+PoW, difficulty 1,  block: "EPv7awRuWqjNppQUiWvc5eHhZfoevONzb6w2tBmFpKSUzimV2Vxvz2RMX5rGH25hzpXiq9lWJ3o6aRRQmCCa4TkPMRVSKOz73MfiJG2R7gNXvdmWdowY5UnFm7XuLKrFUKleQdvL96jvXLF1xzPqJ0vvxHf7RKCmUnG"
+Nounce 100000
+Nonce: 175679
+Hash: 000066e4a166b12047a2322789e91d1240120a23c4150142232a8558b7abc1f2
+Elapsed Time: 0.4476 seconds
+Operations: 175679
+Hash Rate: 392483.17 ops/sec
+
+PoW, difficulty 1,  block: "EzuDtTwHc18NoN3yBmhxtBuBLulgVpEZeyaNFNUfCSsrdlddMAQ5B84NsfrDKvami00nBIJCZ1t0bKTnKhgMfbXN6EOHzotXfh9eoIgD7N3WXL9isesO5FZ1Ho66QoStJPOxXuyS8qpV1m1jGjvBmL1txxoDZ4xjJBUetJwrzbBoC2LIc7KEG9y3ua4KUrrdq97aIrF5HGjJ9vRZqZbwYNnJnhR7N8Y17TPEBT7GZhPWQev6"
+Nonce: 48831
+Hash: 00003caa73e0cf62db240aac19b343734fdc4d5bf13d5b0fea365cd5dcca5f6f
+Elapsed Time: 0.1258 seconds
+Operations: 48831
+Hash Rate: 388068.12 ops/sec
+
+PoW, difficulty 1,  block: "NqSYRZCyq79mWzipEmoVjuvE9FSe1MWC2maJCa6sY3Tus1XvdCGAuzDs5TKugguYIKgKja17TKpABCtcCzaxnbfivnQRJAnPKHYtfPozXTxWWgwWTKH6mmcVNskWsLm1TAiyNLlkeW4y2qLK0SEa3ftGLTb4fBtwBPiMaIu3eorVS0fGHjh8COCOidGBezvdCTnbbX"
+Nonce: 48778
+Hash: 0000045bc67161739d3bf81ad73c07f38705684385f331d66e26caed16910839
+Elapsed Time: 0.1265 seconds
+Operations: 48778
+Hash Rate: 385734.06 ops/sec
+
+PoW, difficulty 1,  block: "69BRR0uY7R33UF5inZom1bXTbp62GSMARMPjC957Rw0j1tFdIrF8IbRhGLaKdkLvwYSwWLrn5fKwPPNV6TTCsijys76LiF4SeKD0TubOOj9dyMysdGuLoR7UP4ev7YBbhCPyxoDBNCc9MQrqWb19rxT4pxnmKoCprRdc4ebHg1FtHwXcMMZ39qxo"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nonce: 305603
+Hash: 00007e987c9b58963321cb9068f1fedd7a85653b249ab7de1706139e1d6b3286
+Elapsed Time: 0.8114 seconds
+Operations: 305603
+Hash Rate: 376619.97 ops/sec
+
+PoW, difficulty 1,  block: "aRkCTPriqHaLiipZnWfXt5j6Uc58NialxAoENTk4bBF7jsVKFyfytFsBfm7tKYS5W49kOjcnkhiHN3PSpvFW0xXTXTChrVaDPZlb9DEhinnwe2CKlHgb52tSLvy0EO1SmbrjeuGBXrvzkx7L5clyUUEdD0RGDIWpjDOCxSDI8y8il3reVQSpiXGkNXqQeA3DDFFzYG7W"
+Nonce: 85077
+Hash: 00001be4a248278b2ee47f6b90290bdcd5dcb27a1303c7afbe435bd9f20bd6f7
+Elapsed Time: 0.2202 seconds
+Operations: 85077
+Hash Rate: 386344.85 ops/sec
+
+PoW, difficulty 1,  block: "32exh8IyRwUm04xOiEsi5tkBzZX5UtyOjQ9GOH2d1LFsF34m5mI0Vs1IFOCa5ymcEjhSoXugizMmqGOjsUYBBPKGcKeV8EwCnTSSqCwN28zgEBGuVevUr3bHD3bB8NBjeU1IWlVMjIrnHxXbPHv4AMCEGbDCoFlIXb"
+Nonce: 14167
+Hash: 00006077144cd74afb5142968cc1688a4b4d8f9238292cb44f05d2916c5bf5b7
+Elapsed Time: 0.0363 seconds
+Operations: 14167
+Hash Rate: 390792.23 ops/sec
+
+PoW, difficulty 1,  block: "tCk4kslL0WhPjoAdoLdqP4sRgv0oIP3zSbt0HSB5oiKNKLpxWIblDJ0j4qMC4D2KcjAj29fegnqqyVdId3reChC5MM5GNvQpVOMLNrptVTaHo1OGu5kvbkqnwjr9V5mqJzzWgcGzwe5aVJgECFxdpbEcAtZVoC9v1wIVPMJBqEZ9L6BN9ypoNtEOdehFef1VR9ogJxfx15wA1wOyi3cwkf8B9fHb88uQ5YuE"
+Nonce: 68433
+Hash: 00002adcdcdda132790181000d2dd156319ac5dc09c1bb92983bb501e21dc7a8
+Elapsed Time: 0.1766 seconds
+Operations: 68433
+Hash Rate: 387430.43 ops/sec
+
+PoW, difficulty 2,  block: "Q1BLlCAXOy4FOqptorqHwHEuzUnOCpYQgXbFXZblLVoaBUHn9yst3wdtEE7FtTVNqvSEKrnUCSuBk1mhnVQhFrQIvLNeeipIT7Mcp0wpIerqTRN5kdcqKqy3z9VRhAZz7mPka9Ogb5MuMXpxyFb8tNziMKzrKPeFztqNq4rHx107OdsChH8QUvze5mMFzoImWwzCoeIbV6XhZDh6LfLfQAAJkKMayVCK"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nonce: 495079
+Hash: 00000ea0becd6bb15c0913e0291e2f3294199003d897c98297af729503d82a0c
+Elapsed Time: 1.2829 seconds
+Operations: 495079
+Hash Rate: 385895.32 ops/sec
+
+PoW, difficulty 2,  block: "0LwUTLoPiLmmthvMsQbqOkQWxoJGpRNdc9vtJZ6pjjPSEAcwP3adcoyNT7T6MeZncKWliTQH0gX4gzovrENJq9U94n3GHStjdGK9XZGL5dFZQtL7vWGbVYZPBSVHjDqAHz9eOFpHisgwZpuIByjWN6jOP3Vw6AwDzvfB0IIWyoINU0VTp2o2xNECGYwAYiBLTgMHmSda4jnMa6gDxK5kX7kcVWcr4e0L8ASlStBLQnXqh3tSDm2"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nonce: 4523502
+Hash: 0000005bac3391d7c7b77560ca4858507a04baff32f9c0e698b305197b8d8611
+Elapsed Time: 12.2223 seconds
+Operations: 4523502
+Hash Rate: 370101.69 ops/sec
+
+PoW, difficulty 2,  block: "iaz3uPjmrZxqYFPowOzDzNrVGZnIBefh2UZnj8PRVD5tGKW1WL4MYlhfAKlAmGhfa6I72VMMWH3dPPUmbMwzxTSwb3uC7RhVMnTE8fQVnKw0XEcyQOmDf4x5wh7txeF9HWBD1QYcYITvMtic6KebEPUyxRgkvjh05g4uuQNIXe2jNaAHiehkt1ZeJ5C2chtXElHyzS5Mwvu8LuDtO"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nonce: 751061
+Hash: 00000c188fc04ea3cc91fee1d51dacbd6f5c5fdd403258afb1c6f7112d5decd6
+Elapsed Time: 1.9633 seconds
+Operations: 751061
+Hash Rate: 382554.78 ops/sec
+
+PoW, difficulty 2,  block: "T5cqajjabB8IWCrcyfurrfcZblJeUVFmPfQnC0DbzBkMBPo0uWhaz8zQj9v4SyehRsKRiOsWNQiPgKDQeiqUggiGdT8vFaRUIblpnUBzkhCEpFVJlBbGfAK6RIsXg7rmWRR8lQxJxzOc2hmbgBhCBr8TxooRlV48kJ6JarTNefoWCQxgPTiR8fkwHODth5"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nonce: 3402975
+Hash: 000005d22c47182375c8b4b19c412578486f33a73ab1e0ce0c8a456df9497a1d
+Elapsed Time: 8.9659 seconds
+Operations: 3402975
+Hash Rate: 379548.47 ops/sec
+
+PoW, difficulty 2,  block: "GFjPfQiquBUEBiziyIEDHjn1rz2YUwBa1kqUyM8gMTiNzXtneyqjVRaCEQYXCZv17ZLtkIPwbx7OJr2ndgKywkz0yNL1l7qiU0S48foXRklYRdBs8LgutVifjsWKnBq7160zaeKrEvFTNEBLNi341ZZYHuguvNsmHgZhAjMDURUfTUoe0hYr7yGCimxRxd359"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nonce: 1811607
+Hash: 00000ca32fcf6c8d39b1f262a1c0ef629ba081207c025ce419406af2204c3a1e
+Elapsed Time: 4.7367 seconds
+Operations: 1811607
+Hash Rate: 382462.24 ops/sec
+
+PoW, difficulty 2,  block: "c7zp8H4TlMnPqdxFIs1OuXzfom8fh5v81ilzndGOpreUIPXR7OfplSLN5HsaBdY2B9pobw1GbVYkkv1f7UKilVvgbb6c4TU3Q9irtXwJsKtQ6iv303abNJ5ol2GdLYXbV3HDQ3M6D3M7Z5zPyNpBUkn3atXjHs9dlGgz7qv8j568ytLk40"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nonce: 1954567
+Hash: 00000b424bbe57b4d3f0f45b48dfcec119141547de04b96096aa0f4c9a6cbac0
+Elapsed Time: 5.1095 seconds
+Operations: 1954567
+Hash Rate: 382539.01 ops/sec
+
+PoW, difficulty 2,  block: "OZNGx5bVAJSbsY5fTlORKJLG54SfyGFBdRHPMikMp2mXOh0hJEyRLAYG2ojpunqM4vbER9O6z0RDWHifJUuUSGaJu7ydkcncNEgeBtY0hn13sXY1rHL8NjH8g5ZHXCjkEECFvY3SBuMtHikyptw3S1"
+Nonce: 5402
+Hash: 000008e32acb3ee7c5d48f1450bc6c04ee23b233166a613138bd52422a4f7349
+Elapsed Time: 0.0143 seconds
+Operations: 5402
+Hash Rate: 377656.60 ops/sec
+
+PoW, difficulty 2,  block: "ywO3JQbrUftZQHSgGAszHRX36GoxWfmLQ0EZEdFY8wvM2Bt89ZwGqJ8lOkWkD9tTxyr2PwOOi8Ya7FX7fJBLS7uehHFlEy21kjr0T4C20YQxenu9wuIDr3hP8kyCXo17OjvhbvXRKoEoRxnChvFMmkbiLNki2"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nonce: 794740
+Hash: 00000d740ad4acb9dc0ed2d8beb8d9241aaaf10b7c0a2e0142e8c95bf6b08d86
+Elapsed Time: 2.0667 seconds
+Operations: 794740
+Hash Rate: 384548.20 ops/sec
+
+PoW, difficulty 2,  block: "dE7NjY87nIlrw0cX27H5KrejQpvyLlOopLzOjyLK6u2rjSEZOLVY3z5Jcq5lRKN4VDJ31SDxB3ekKh9YsSujFpqfUmGjwUeFXl6O3894zce99cVpuFPyt3TDfakPuETFpNRhLQZBq28pUUVCXi0GbKH5isIQuZVYnm5w0Svh"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nonce: 535432
+Hash: 000006060378371f8fea0fb8fcfd37feecd4d5dc252971e1beb8c85d2e58fa85
+Elapsed Time: 1.4567 seconds
+Operations: 535432
+Hash Rate: 367552.68 ops/sec
+
+PoW, difficulty 2,  block: "uMcCffZBTebblU9RcNC0iYdKRPBjBgutsKtMpIN7kmWK6UbXhbNGzqOE3No2tWjagSmKZxF9abJWvjtT86Xwkl0cxeUgy24VKgdjSihs9qCtNuCMqZ8P8yrvR9QF1KYArzh7XEpVtpE6ZEIEdETZ18LI5bLvlivQXSNvV0EEgGA5KH9lJQAAOL"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nonce: 1905204
+Hash: 000009fb69f57301c20e8a172bd41256ec23688b1ce2741b1a140c934fcd787d
+Elapsed Time: 4.9870 seconds
+Operations: 1905204
+Hash Rate: 382031.71 ops/sec
+
+PoW, difficulty 2,  block: "IkS3K0maN2m6Na8R6EQ0OVxzeCyfO9lWi3NsrzG3sqz5HwLB0ZzDsl2KnqpzoPMKGZ0yN4r5leyqQ9pHWfKEEAPpp2eRFobMCRAPJpKuJ8Ya6EfQhnTlliQQYuheX6qZLooVTwFcuc0ogT5D6Omiu2"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nonce: 993656
+Hash: 000006d30bba600271c33e5632a6e41a80ae35b8c8b0a967ec9b0d9d60692e30
+Elapsed Time: 2.5653 seconds
+Operations: 993656
+Hash Rate: 387347.06 ops/sec
+
+PoW, difficulty 2,  block: "GkSk7OOUa28vJuykdOaHuuAvoOVK6L5DuNlrZ0Azq8iyrVYKjyPSgQBJcXRZiMaSZB8xz8me4JSlcqt9c9R7NREpoVCKicb5cXsPTTtNaBx2pg1GdHDqYHUAaWI6xj0P6icNzMZPLMFzq55IC6yYBIWbdeYQEOd8u5MiFjvPt1EXu9fu3SI4YcV16rFA3g7maHKdq5sZ"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nonce: 707957
+Hash: 000005f0e3f91f537c7fdcc5e777aea1540a3c26a871ff610902c23a402bee6f
+Elapsed Time: 1.8481 seconds
+Operations: 707957
+Hash Rate: 383067.91 ops/sec
+
+PoW, difficulty 2,  block: "wuetQMmiUg4w0urfzrZUm9utJLXC4uvqfPavcCRuhLfV3M0r1NBeMtLT4jWyRHdwU3hu3wdY68tzIkg7xfZ8OjRJIn5ZsYKBPrvHcOdYKNLQvsMgNleaKwhQXcoEzyFCdyH5BlRJydajJkFULiuUURkpsMtfAyhcnnXoOpxCGLjPvmh5KSPehxINA1q8oMaRzy3DboFf0msjOPeZft1Bf9Ofz5ddH2u6ql7FPCiDoQn2dHP9zHAUEMx3"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nonce: 621625
+Hash: 00000272f15f2aa3716500938323ef14bdd985a22c3abb83f2da3f535526d9b2
+Elapsed Time: 1.6528 seconds
+Operations: 621625
+Hash Rate: 376108.97 ops/sec
+
+PoW, difficulty 2,  block: "QWMIEGwpDz3DX6pljgFpvCe0Cw5MjyUxLe6Njq3kewozsTbQxe5jgXZgJUssHAfQdZdCEUkiEOVvgwBTO40sRQOai5Gn3j3W7VWBn7hsJ2dpnc71UxklBw9ipDLjmD5jYQi9LFrU6I8ji5Y2q8bstaOYdZ5EczlyFKyQNdi"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nounce 4600000
+Nounce 4700000
+Nounce 4800000
+Nounce 4900000
+Nounce 5000000
+Nounce 5100000
+Nonce: 5100161
+Hash: 00000c6db625f5ef4715c165b854223331daddc7747d93cc76cbeb80962ac5c4
+Elapsed Time: 13.2622 seconds
+Operations: 5100161
+Hash Rate: 384562.56 ops/sec
+
+PoW, difficulty 2,  block: "kgqGZF9EBausz8HQXCUy16k4EWIP0rXYLDejGbnI0X0pT55q6OcvIDqMZwZNdwln0EM6fzCTK38dw2HqGkcOlGYA2xOUkx7Y1HUV4VoEOlf8dkphKHttLFuB06VYtQwjXF2PaeTmFwkgXNBfSuPdx9fo3yCmFzJa2BoSe74hscE"
+Nounce 100000
+Nonce: 165113
+Hash: 000006fc8689d565e92cc65636e97c6b9825a33665db7d19cf2b194e9ce189a6
+Elapsed Time: 0.4284 seconds
+Operations: 165113
+Hash Rate: 385440.33 ops/sec
+
+PoW, difficulty 2,  block: "qDi8wxaju5NnrQOwDVL5VzNzuFWafYdJcCGMxgvgZ9HGNT1QpALAxWxfZJ64gZE6ZIINo3rD0yHDI8Tx6cvtyiPNpLILiKF8SLJ4Fy53mC7s9Of5rOpfw2tcDzlj7pfP0mH3aCxDCuv98P5pdiJOa2obpP8m2eztG6mf6Zi6HR6Eezt6X0KvsyKXBI74kwlrqNMmlsjq7ducS"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nonce: 1916840
+Hash: 0000035333692b12c71f9d8c7052206e5e1bb750b11d5f40f44a8f565754a38c
+Elapsed Time: 5.1133 seconds
+Operations: 1916840
+Hash Rate: 374874.76 ops/sec
+
+PoW, difficulty 2,  block: "YnSgY9UgUToSLPEw4t8EVju2PrT8HladMq9ipTEAlrSw4UjyDh0XEkNRPhPXGnyTUy19F69qnPdhiCTlhJ6lrI26pGRvtGCD24D7yAobQH6yHNXoUSNBaD5DJLw3Pz6Ht7Eh8s6Mx084DTgVltW9xPC4YzxnousVpx2ndwzRmvJnFo8oVSoGfoB4byfFgOYMBQxcAlrkWzNZ"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nonce: 524469
+Hash: 000008fa8df19f17189882ee4b82175b8ac2dc9d3969fee8c646902dc336ab47
+Elapsed Time: 1.3880 seconds
+Operations: 524469
+Hash Rate: 377871.76 ops/sec
+
+PoW, difficulty 2,  block: "JEyZq33U4xuqQxLeMVdaI6brnBEcNb3UfquJjncdYMJo9UJLpkkwgBdIAfiN7ciaIQir1AIPKR1Jk8TNj39D2bL06sE1KkQQyy5pwD26SrD2qUEPLDQDca4XI6OQecgQOZ3Acv4sc8jGSnTcokdHAVeIRqWtJ29VR2WrlQZCM8Idjc5OAYT8uvE9batiQq4fhOM"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nonce: 1014911
+Hash: 000002cc39c823b25ec40bfc30f818f3f8baf82a3595ddf041a706fa4056f22e
+Elapsed Time: 2.6509 seconds
+Operations: 1014911
+Hash Rate: 382851.21 ops/sec
+
+PoW, difficulty 2,  block: "ejIrgRIFrDRpbknJVrJvF0RVgJ0BXAK0hQfDhnHMqW1F7cPQHY9MORhsYVswV0m3GH4ouByYYodTGshOEhaQw67KRp4nfgellYNTYCrwqLDu1k66FXMzRJ8iy2JRXl38AGSYG9IuILd8tZ4zuEoBOmiAfrS2RJyRNGnSEtCK4dIn3AanFFpRpN"
+Nounce 100000
+Nonce: 104040
+Hash: 0000017229bce73ed6d0ebee3b2b51e797f4ca57f3a8a19a557b7d7a88a1b0da
+Elapsed Time: 0.2800 seconds
+Operations: 104040
+Hash Rate: 371620.54 ops/sec
+
+PoW, difficulty 2,  block: "I2h8JqxY219K3sKEkoKMhLmKQpxfV8wbzSa86NVyCS86BH8lvIxSTYahDOCWMxyBDO87ZRwZjsVkzTKka50rTRNVfNrp8dpBpn9C2tcbZvAPFKxdDoKV3XqWlXBjzqjeRihJP7josj3xrpOsRZDKwtgVFf54MeWbA1jPyI3hpvSUYhAp6ExqxRC0w5s6ZFY"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nonce: 735506
+Hash: 00000a09cf66d284aaccbe88e0330ae8bb32c6e76633bd55610f8f6c04272b89
+Elapsed Time: 2.2537 seconds
+Operations: 735506
+Hash Rate: 326350.10 ops/sec
+
+PoW, difficulty 2,  block: "65kvBdSoMk8kH8NBAAsyRumCnV8AYUXUP7DQYT4j20H7xV9xTrjjZMlCfjA34XLHSPWogONYFVW0qVn7ALgXXHX0pXrjs2oAFAomP0ASLWIzpvun4RARYXFDswkapNYuNBUazVs8p0xVkf8ew7uJSxMBkvZN8w5JvQkklSiOHTjpygHld1utp"
+Nounce 100000
+Nounce 200000
+Nonce: 242327
+Hash: 000005b171e9e0f54effa0c5417d9a20b84ef066f46ff91830a6cc86af0f1efb
+Elapsed Time: 0.6892 seconds
+Operations: 242327
+Hash Rate: 351583.25 ops/sec
+
+PoW, difficulty 2,  block: "sNnIal2VvnjTNIjvXoE4T2abb1QLl3ETErZeRRyA2XTFg203f2xytMNKBcUmVY4YFR2WhoWZAnfeeTV9KGv3S9DUZX4stwGzC9Jjle8lFbFjvYg5fSwvPzFoL8W4sdrua1TBTQlYro6cDcViuHT95XlGT88BbquzfD0wRZK9EGZFjvlR02PvN0zgwygLcOA7Pz"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nonce: 2035647
+Hash: 000001788a4c5f294478c34d93146ab0add069f63507cea2e4e800a72ee9a30d
+Elapsed Time: 5.4397 seconds
+Operations: 2035647
+Hash Rate: 374223.69 ops/sec
+
+PoW, difficulty 2,  block: "hO1gQ65Tdq2ufv7Q8wGdi27uULsPah67uxd8rXQKBI3g30x0m1TJrQ39ZjOzHIvz3MxljDvlKmHDb23BrKKWYBVxlhlqpWfjiQKGS3rcgwf5nX6UhHr4GArriQVNm0wJH4NXy4zSoSNRpHmLORFTRuAz9WBlKxsPq5mcxZucs5rVATgPijgySgnR0m09ahMEazgMOOo4HVQHnuUJS07iVjzLLnIjIVnjIJvUX"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nonce: 1380750
+Hash: 000004304cee5236f8d036f8794a9fd4c2069d9a0bf1770583f3b0058b90d950
+Elapsed Time: 3.5967 seconds
+Operations: 1380750
+Hash Rate: 383891.43 ops/sec
+
+PoW, difficulty 2,  block: "PeqfmRN4bfvYDG50PHcYqkrSJzb2JxPWP6zzNDumgfBkl4Y0B0Mqb18iqXbyIoKYiANwB7WhaXH9SeyRUA5t21QgPrUVTdt2b5mc089RWHQmjE13Dvl3m1ZzgsLzJ4rkxTCoSB5mGJMpOBhPwIIZ7fOdLXSUQ84DP6rh8mHEuTs8TPLFVTeSwrt8E9SU7LWNHDsDo0GYHyUaBfeWw8minVeqSv8O6UbBYHFA5JYD5sb6N5Q920fdJ"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nonce: 344675
+Hash: 00000dc2657ff69ecaf5f610ca50414295979fc29a5455e9f6c5629dd151648f
+Elapsed Time: 0.9078 seconds
+Operations: 344675
+Hash Rate: 379697.12 ops/sec
+
+PoW, difficulty 2,  block: "JbtGpnaEowKrwF0KGv0ipDb3ATtex2c4SJA5wZAaLKI6N6EUq52V6TP7l6ZWz1QF8RAuq8IzIOvWLyoztgKpxXkWU9sHy9KwOKe2JnpPzZj8NNx6r6jdTKzlJgq6d0sp9LhIwMXll7kyIVs0RSTjaGIjmzdDnMsmVNsHaEs9BQwHmc"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nonce: 4332647
+Hash: 000006477f8ae764fcbc4d4148f21ec32e9b169b10e3c8bcd4dba4e8c4660635
+Elapsed Time: 11.1946 seconds
+Operations: 4332647
+Hash Rate: 387029.77 ops/sec
+
+PoW, difficulty 2,  block: "3sOaITjq5WJ77Tpko1QvRUeOTu8bUbWMJlmS4J8xfFsdZYBDNPzekRq3BpSUGpgNOIfIQb3vfmM48L7Lbun9BT2B6JVAy1OC7rINH97mlHghTdssMVpNnhOhojicYwcUdifiicKJkqr1IXhUrMhUruzWRXwqJN8lvdJ"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nonce: 2230368
+Hash: 0000018e20e81deddf2f33e8c61af6e1639226bf043ebacf593cfbb589e8b689
+Elapsed Time: 5.7251 seconds
+Operations: 2230368
+Hash Rate: 389578.89 ops/sec
+
+PoW, difficulty 2,  block: "6Ube8ITEd0WKA4crmSB3pyhxBfWu9fE3xfVuloyEcLPcDrJn9Jgn7Ca6hwqePsVBNqvyUh1uqGMrvUUtd1WY3uUYe81trMs23bpL7g6nkGVVapE3eYRVIjumglULvADmcqyZMsAwyVGN9KGdhWzp5hQbIim1ioe8UQVf8WPupV5oeCGBW3o"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nonce: 788637
+Hash: 000007ca571ad7e451d1d25dc87fb59090a2b84611c4e50ea45bce3b5118c95b
+Elapsed Time: 2.0491 seconds
+Operations: 788637
+Hash Rate: 384862.62 ops/sec
+
+PoW, difficulty 2,  block: "a4rgaRX7313OHPrDj6wOQr1sr5tDyVTOOAuoPFlJ5fVCsCER6ydKdS2JNjMB5dPHb7vrDVy6yJ8gJAvFwOOOhGXsohuhB9oc5ZH6s52gCyALxtPj6dxbhIJLq3sr1WHwuNqaGi7JU5SHphpj8cAglJrPDY42uBmcMS3R0yYIrqQUM53KV3q4BWJCuD4cDg5Pywemi2sPj8iv1b3NTiFU4PUoQOETs7hetBEP4wfbtBKkcDvtl1BdG"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nonce: 1931649
+Hash: 000009a62a9cfb34cad5652cbcf3e6947468123d99871e3ea420b13b7710018f
+Elapsed Time: 5.0852 seconds
+Operations: 1931649
+Hash Rate: 379854.94 ops/sec
+
+PoW, difficulty 2,  block: "HWjKoPHLt1KvEEijdRinzBrlsQcuugFz2n9e2Hpk6yTA21iWGG76Fmfy37ildlaTOYwFfbnZP6ZGw5a2AVwF8R11MZanB05NMrSpG5EU2cYoVweVHPbFeS4rqUSpJL2V2LB7EDR4dpgzbBKiQjms0gXg1qLA1BTsMSpPW6Jxjqm8pve3UGlKn7ocnxacztK9AzOWtWHQAsOndrgvxF4"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nonce: 813679
+Hash: 00000cdb6534147d0c40490822236734ab42692d2ddcac5989ba04ab774548b9
+Elapsed Time: 2.1296 seconds
+Operations: 813679
+Hash Rate: 382083.54 ops/sec
+
+PoW, difficulty 2,  block: "Ci0nWOGL8OI8CXSttXArFMUi3ySp3MB4s0hCElLA0U60rMjYkjDpuXMlLeOCoQ4WGcXKBiLz0FpfSP32w4fgPrGYJUbxkTKothzvD8k4DQZTdRLPLpuZW0xgKOTtgbXP6KA8Gl2KzPbSelfqQPDmD0GMDY5jxQyubzshYipLvHdQs646K7gNxnZ09UZwjOeADMfZsLkeQBu67o2HlYTY9sN8BmtkyNi1"
+Nounce 100000
+Nonce: 188136
+Hash: 00000cf0f731bcbee7449d000385c0a38a537b57ee6ca9d13d9c97994589598c
+Elapsed Time: 0.4844 seconds
+Operations: 188136
+Hash Rate: 388376.93 ops/sec
+
+PoW, difficulty 2,  block: "DOGOyicxQYt4QydnH0k0Dh1nQZcd7R1Ag6NScpGtExlSlF3t3ej4BYhRx7ssPiste5B4jFnn2P3eUxNLRuFSGmh3kPjxxRgPLfKujxVZAO3UBEfQwii2LDttTSgEiAUtdcbCNucO8Tg8WCMIkt9twsaFB4Ih4c"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nonce: 546858
+Hash: 0000017a4ba902f74f4111b496844ef6a8c381262f12d56b31b6fa8068301eb1
+Elapsed Time: 1.3954 seconds
+Operations: 546858
+Hash Rate: 391906.15 ops/sec
+
+PoW, difficulty 2,  block: "Y2paFZ0TVK0Tg0emYNlG9SgDRbLyTnCrdrGiG40ZCqrgeLJ2Ys6XAdaP2lDLMF1pu5MyzCO2q5YKGfAcM7zMaOcQzdbAhQnRLzG91UzfNLpRrot3liD9wdPk5okc5NtEBxD0F0WSC9htnQkOxlLhFaHADpa61JA27CqA2CR4CylnFL22xBZ0cfydKOZ9VZzQbgRUgiOgW0Kb"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nonce: 550923
+Hash: 00000f5ed49cca4afbaf5baf8948e8d3cda88b9dfe0cad9a5d939254b971f92b
+Elapsed Time: 1.4469 seconds
+Operations: 550923
+Hash Rate: 380760.94 ops/sec
+
+PoW, difficulty 2,  block: "ARuBrkbKW4UkTS6rHMIlbaI9noWbyvayDJ0srR2EKKmdcgKirRJIpRIS4ctsNIfOPT46iw8s5lKXHS3yjD5NSDfMdN3qTY3ipxcNib4dAEyFWs24vxHD0kQRvJ7EfykKmDVIcPlaRZfoHXg0Kl48LIP7PL9s7i2hjLpBZQbqq4SvSwmaXgZhmmc1vZjt7ZQgi6f7M4m0z4mFpOfCs4hUf9JQZs9UFO1nK"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nonce: 433133
+Hash: 0000098159a5d7b63fadc0450e6aeae1affe60b070c517011e06d9d013f89243
+Elapsed Time: 1.1326 seconds
+Operations: 433133
+Hash Rate: 382436.80 ops/sec
+
+PoW, difficulty 2,  block: "lUPLJCDvHs7mtnfQ7AOEOlwM5zauciFB0SM9UQub8pBpSg6NeIRttB3o0TZTzcUpufpEvXdrDcXT9RhbZyIIyBuoSH5HjQvRvaVevwJyPgGMvnlKZuQNv90EGvJo945sSPME9W0M06YmhAu7s9Id68fAsnorfiayxk2w6q7vnTXKRFF9COb8K692hniDL816irrdXoO87jJPoOOrapnlkmbHO9KZ"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nonce: 714511
+Hash: 00000efee899613bb2f0c2ee3d520fe39607ba0991a5329cd6094445ab0ec18b
+Elapsed Time: 1.8681 seconds
+Operations: 714511
+Hash Rate: 382476.58 ops/sec
+
+PoW, difficulty 2,  block: "9UeqB5EnHCkqJzSWC7wplVPNvVbufzofHGJIBLtIMTyVHEpJCcylvCygXOP0B3TI9dO8m7GyO2IV6xc6NPh9RUdmisahjuniL1exwkmAasUXfwRrBzqQJJ0p0RMZBz6Koa7Y9hWZNqutbCaazEp8LflBwvZviV3Mt1isW4Ikj0RA2partFn2jO4T7TFfm6pVxNEIGKqpA7p1mFiTJKLsWDBUUEz6BdQwqS2uciZafERFIyW"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nonce: 4504742
+Hash: 000003591fce14276af78edf30e5f97196f8514fb6679fd480a146cfd7150bb8
+Elapsed Time: 11.9698 seconds
+Operations: 4504742
+Hash Rate: 376343.52 ops/sec
+
+PoW, difficulty 2,  block: "8g7Sj8m4BayA3EwhWpSyLpNrucu2QHHMnCdK8FE9d19U5u0SXGEivRPfu8V8DaJocmybp1YHsWbnGP3dV8BFNPi5N44OSB2vlqKOfiVN4vz88sbUqbX4o5zzzrDIq51Rj9eFhxSaiFYhyyzcPMU3FKs5ztBgo0vNzNSUBjuhoHCc313GBN9HXpALY9pAxYNmme6lDpIruLInABtAOqHkTFtpCYpzu0bWUV7"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nonce: 2517562
+Hash: 00000538cf70b4d305480c9656cc2b3b9eedcb35c31bf161c49dbe4af5ba3fe2
+Elapsed Time: 6.7793 seconds
+Operations: 2517562
+Hash Rate: 371362.53 ops/sec
+
+PoW, difficulty 2,  block: "8GBqPHRPG8PSmU25XjiZ7LOsCnCU78q3CpkRwze2yuKaCBUak2xgCAMEnMWiKAcMpAbbx6RlocAqbUEBK2fK2pOd2jACjaNPaooLi4xMWv3vD5uLxQWn5iFxHFyrf943lgEKazUukNfnHQz4gLgZtlLzq9gJ6YCh4EpV4AFeLlGS15LVEruvQ5k42EDycDUVH9q99teJSibJdmcfRLOhGzZ71cvUdDplDTiAAAJ"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nonce: 648679
+Hash: 000007c820d469dba5070c2d146777ba95c6beb9b3cd59016a10c5ad066e73f0
+Elapsed Time: 1.6989 seconds
+Operations: 648679
+Hash Rate: 381816.20 ops/sec
+
+PoW, difficulty 2,  block: "ila9L3edEt8IgYFXyzpS2U13lZ4maD38mT8yKaPOHNVnjYBYNqoE9f7i41IS3BPfVNTflgstuBWRZVplATn9wkfpao7RpMw8XEc7kIqSHAkgUNFUhsRRRw6rY28CCs8awaVVgBnn9NITbLl642NLnK0BCwDCcCcPavk5uLiuZoB00nusd71GFpGFZJI1JiEkUofE0BwNowBcXvK0q95woBzDK74Se92ylV0ZUlk8XlYuUgkBfdv"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nonce: 1387242
+Hash: 00000efc8e04e1999f83f795014256e034158c8d2dbbc241047678a28f23e587
+Elapsed Time: 3.9836 seconds
+Operations: 1387242
+Hash Rate: 348236.62 ops/sec
+
+PoW, difficulty 2,  block: "ekIngD5AAxwjGm7aNhXiHtSbQ1cvUL1xw9aSAVQAGCiMmdk0A5YHpph5e7oyJfl5f9LfUbeabAmDdL3bGQhv3EqXBTJKytFTsOzDnRdEREIuPBLVPsFGutdwCn61UAICM5D0Mf4dhCLuCXDPDIWy2zk4aetsc2vpxwf8PZbwangc8krBqDxi1XbR0"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nonce: 774536
+Hash: 00000960e004e328307618a48cb9d2effa4902c7f0dd74755e45b926ac982f7f
+Elapsed Time: 2.0369 seconds
+Operations: 774536
+Hash Rate: 380253.84 ops/sec
+
+PoW, difficulty 2,  block: "ASAt7wdautyJdOuAqsiVsOXfvO1KdrSb9RI5BmVvTJ2wVnw9VSVBfshQ4YaXDqxC5556hPp0WinsJXreqCeJsBZkZx6abtcXoWTMl7A7dnnm9VEnViwCjLm66iWXRxs6JAGs7GnasRCrkES5nE7MNkHJGbeYONSVLYBIcpgK4gzekHZNLVYW3df948VJJncU9eaaH6kB"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nonce: 302992
+Hash: 00000557942de3bc43c3ddfa8aa29b9630a0f75b2809fa34d5c4920bdaca237b
+Elapsed Time: 0.7945 seconds
+Operations: 302992
+Hash Rate: 381385.38 ops/sec
+
+PoW, difficulty 2,  block: "YfAf2OpNkBGDfE5bZEkBf289SYGM7FmVkmyayboYbsZ6wVVKX3L2vHzBg3Lb8xugZi7M8jiZP8TARoKmhTdQaSR4McVINFpkmkwkHV7WRQWi4eIZxlpM44EEUYKhdxHDX4lcNizeyJAqoIFZsulmooo8Cyfdmlh7dGaqpNIbWII8ONY687gklIjn7CHhlmeEs2uVF2xa85YLGwFCumnTuK7pKEKwon0WfjsjZf9WYV"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nonce: 333988
+Hash: 0000032178851deabc09aed84397aa8eb524e2018730f3b69fa594aa8f0d65fd
+Elapsed Time: 0.8785 seconds
+Operations: 333988
+Hash Rate: 380176.82 ops/sec
+
+PoW, difficulty 2,  block: "cIkf0KIJ5QEiaGtKuW9HzixY5QVPoruGxVllfrsY7x5W3mgm8ftvBgI5wdKYI3c3OCertLEp89BzlfbhBISAma5Y2EuA7N4JPW06h4ld1kRcGq9FzQDbq9yiDih8vZHAv57TygupHBILsFOhVR6AOug"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nonce: 1583153
+Hash: 000001a575cae45303ef306b5436aa54b74b56ae62c13388fa1f54dac8a0be6e
+Elapsed Time: 4.0994 seconds
+Operations: 1583153
+Hash Rate: 386189.60 ops/sec
+
+PoW, difficulty 2,  block: "TDNCcSBMO6fAcNphPvq714cKKYKYHroaszaJIbVUXyUyB7VQtALi2nqCA1ZHgDfM05V8XoQscigcg2sN02vsfbvdQKkuLF5B9Q8W3MEVvjvPZecPUL7xkqRz01j95cB4t7OkJQ34zpJOHjbbuZOTFfI4Vp3OI2GzzSX9iQ3"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nonce: 394448
+Hash: 00000713f839e981b4573feba78e4dff53f8195c6bcfec55f72d20025533302c
+Elapsed Time: 1.0128 seconds
+Operations: 394448
+Hash Rate: 389454.80 ops/sec
+
+PoW, difficulty 2,  block: "5BiCiAdRZqkcJqWcTOoZGuM6Cj5j0w3vvbwUbNly3JPBxjdGxIg40qy1QrYGdRzNslfIzE6qNJrAtJEgPiYFPM4f3QjVhYgOABWxFQdSaLQJSSnh1AkEMdjEtGXRe3dc4zP9DtPd2dkKvMpkMPoYsLacRvrwoKOg9edALs"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nonce: 412292
+Hash: 0000051eb968da579faf56b38c4ad5e31a072e3eab46892b696dcd89b51a5cdd
+Elapsed Time: 1.0662 seconds
+Operations: 412292
+Hash Rate: 386689.30 ops/sec
+
+PoW, difficulty 2,  block: "DLCL5O0faDIxwTLOl73VjDjGABjAKQcLZfWUrKyIO63APEMy9FJjGrpGsOE3chE2AZKrh8xv4otIt34q6EPCv4GbHLSjsVbqukVPiJBbvshcmbJifYjOTpoY065gRVM95gPdnO2Y6Z1g18FUWohnRLBIH5mXQxULTjm6vfSq2JMtHRCc3jFLuFRzA3"
+Nonce: 9799
+Hash: 000001c6b2b6c15dc0cd3f20e535797ceffa9cf561cde689780035cd2e00727e
+Elapsed Time: 0.0259 seconds
+Operations: 9799
+Hash Rate: 378281.35 ops/sec
+
+PoW, difficulty 2,  block: "OohZ7EB10eKeXTqGZ6Gzzn48X7NL5FXJt2ir7iivCqPZ83eXzkMnMEljAxs52GFl6lQ1JxkKdzjbrBwgk6JwBtTBgC4YG97CjM2q9c0aQY07Zmd9jnviUDh0FbMJbHJ8TBoQefru3hpQHIQqt9MDCt1FLBOk"
+Nonce: 34993
+Hash: 0000077c7768b9d20a579c2736f4cdfd6a001a699004f4673d0e44f71788f130
+Elapsed Time: 0.0905 seconds
+Operations: 34993
+Hash Rate: 386863.90 ops/sec
+
+PoW, difficulty 2,  block: "YiYXMp1pUjgzOx6VDlEAxGBh5Gq5TQCpyaC8D2oXZIKo5F96qB7bF86BCm6T066mW7lYxNvMV4yR9vNnxIC0E91FjvWapTCAOlYByHNIBCX8vklgroXvlM0I6NglehlsI9t5H4BG4YFq8oMpShZ1uPAqaeR2B3kI0RD5KECEcFsYt3CAab1KozyDUG5V7edvver5ir88wqVfhXf8wVGYK"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nonce: 957943
+Hash: 00000541439eff43c9bb5e927bd0bf51529853ba1479ecfba354a63ed7de8198
+Elapsed Time: 2.5003 seconds
+Operations: 957943
+Hash Rate: 383125.55 ops/sec
+
+PoW, difficulty 2,  block: "be9V04zRpkwUeSBcPvGkPm5skpDoDMhdqeyeYlwCJgWnwWDBHKjWweDUHG6JSem78YZX7JZGptucFxdN5Bhpfi9lp6u5YU0UqQpnZEtDwbf1P6CI7iybGvCtpunDEdYurDVFGEI0enrrhszfQl4UX6ECqpEsGacybv3fz9TRkB8Hrwk5XePuYTvE6xwDLM1k7sEvrXCRW9WDv78IbO10fk2cVnfexUEtAIepee60bQ4MN0TnCKbgsR6D4"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nonce: 556266
+Hash: 000003312edec72a107c32192c65649b5e132dea6d8d3e33e968f99ca9a427e6
+Elapsed Time: 1.4797 seconds
+Operations: 556266
+Hash Rate: 375922.97 ops/sec
+
+PoW, difficulty 2,  block: "hqtjZrq3WKVSAxg27urQXtYwPGDLH6kmmRMB822UCLkA8H14ziKKRj6fn9ov5PVfehgdXWvXiUYgbPaQvjaAGUftTKcNXyqzTNQrjCEFWakvnABYhZZnt2VACxLXj2N3DdikdmqxBQioOhDu6aXnSqmTexqBn12qTaPuB3iCJGoVorFiHbMaHytjjXlNNb1g0GQ19y1G3fahLfFQ6"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nonce: 488674
+Hash: 00000c00702efce49cfaa36b3914a8a127166ff1cf53d1c76944566ef135529c
+Elapsed Time: 1.2765 seconds
+Operations: 488674
+Hash Rate: 382827.54 ops/sec
+
+PoW, difficulty 2,  block: "qCBXlltKy6mnacsoRpdGwUlK1up4BkIpmJBNuuWgo8IEY0spfJvPdUZSFDLGnTtNcuYLeupIqvKEl3tFCcSexsw0t74UOnhrY300od7SPHX0AE3BhMdS2PIlLC5ZpaEBT425WzOl4jZ3nR4IdXaVkg6tizJMPNNgGDca2o9vLYoypg5G1Tbb0VLYISkXdw2hzS7q66bHTF38lwDaGc16yAS6Q1SunIRaaNGWJhbckSZJFajL2ZFqX"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nonce: 483655
+Hash: 000003e882576cc2965a9660006dedd06173c64a9110fec20ad18cfb70a4fb28
+Elapsed Time: 1.2769 seconds
+Operations: 483655
+Hash Rate: 378771.92 ops/sec
+
+PoW, difficulty 3,  block: "loM1Yx9nOZ0Ut80IYaaxifLHqEgvu4HTgRI2FHfTeUlLSbTo0uaWPlb4p8na0srUA0MF5pWY95jPX34LlUfy56sl2U9qCoAAeMDY2ZwzVVFqM7zxPUmKQStHmqxnVynx8rLyE5oXPrBbo0N3IxBXDteoZRRsD2gAhpykla7yH9Ptxak6LkRPTt3qAIZC85CgiyGHPB5U8JEwhmqtK78dqzKo5ho3aoX8dbGsd9AbIELqp1ZzwVR"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nonce: 2761935
+Hash: 00000360e19afa55b78fc9e62dd6b9e978f2b6c7cc5ab40343c59be0a92e1b50
+Elapsed Time: 7.2423 seconds
+Operations: 2761935
+Hash Rate: 381363.32 ops/sec
+
+PoW, difficulty 3,  block: "IZDD6r4WWSUxtYdKYdmegvKLnh8X0Py8o19ig440MNn3lGE7iocEZkNAGLY6ZM5BB2khwcW8p92PE4Mkimo7Nz8T8WNXgGXf95AvXWsBUkQWea6ABi7OX3fVNsrtxEMw9NhUhPT1xjLP8HP9nLLAEoUSWB9JDM3AXbU4oowcL5pHD5Gq"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nonce: 1201990
+Hash: 000002aae985430796276304f9f2090c8cbaf3c65ad61a05299ca2f619c69945
+Elapsed Time: 3.1699 seconds
+Operations: 1201990
+Hash Rate: 379185.63 ops/sec
+
+PoW, difficulty 3,  block: "RpI59aQ8YXBiPB5qTxU5huFdaMeTRIZixfcu4qqSBryQqr48eN1C76dVJ7oaFB61hWlZASrA7dQmKLkoWboTWHndCR1IRv9wIiLGy0GwTXYdg6F0VsJrxuK0A96Rv3B3bM9QAEATbWu5Sxvld2TRnbFlbB0M41DTBAjBEhSd3AYJxHvR8CgjblK0kA"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nonce: 1252029
+Hash: 0000008ad39a5d5dabc677f4e98624a37458c711fb52cf98e2a2a6b6dee4f9b2
+Elapsed Time: 3.2957 seconds
+Operations: 1252029
+Hash Rate: 379895.44 ops/sec
+
+PoW, difficulty 3,  block: "c1Dv2CT1G0JksH612CkHAknjAMr0ur1Mg28Y4PNBFUjvbfnTfLbfuCCuNtk7abK6SGSMVdNaxuKMQxet63Pq5RaI99EZYOUqUk3pEEDzzNCD8gw3Z9jSP8ZO7dlVp3A9e3mi7pVu1Xxz1isOhQfuM48HViaAba75TjbPMx7DIv1ARjOwxth9lfE4Bf4d5zWPYycljZorIfpZD4KylrwLK0FMV8pRxBeKx6vWTXCc"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nonce: 608108
+Hash: 000001a6799a68a981b21d1434cf66b9326d98fbc3933827f369d428c164abd6
+Elapsed Time: 1.5787 seconds
+Operations: 608108
+Hash Rate: 385201.76 ops/sec
+
+PoW, difficulty 3,  block: "rz2j9qJocSzTV9oRm3DlXNZR6tlTtDIb2A80rHeHXRatQDA04DcSQ1jKiKcSLkrElp2QvUXImwz0x0rr1J7I8hQepsu1Tb32FvGyFd4pNugAiLqZSnfOIwsyedpv2in7RttULoAWWeV4nBR5mxJvj1jDSOzLuaGBI0VRcTnyx8qa77TkucV"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nonce: 1485146
+Hash: 000002bf5fa5ac5447997f36da172d13f2b49da781ab922ef54cf4f66b0a972c
+Elapsed Time: 3.9155 seconds
+Operations: 1485146
+Hash Rate: 379301.71 ops/sec
+
+PoW, difficulty 3,  block: "S4VkGItyi0xoqG5Iaj4Lhkkdh3DSUYjmQ4KWA4Khu5LYBHgbqYnL8LofEpvYDV8TNJnODvvvq4HsBlHp9sz73ba8HMUKfTcsaF4b1nKhiRNj2VN1DCy7bO3iaLr5cHm2MeRBIbjqsuNkFYbHYNC0a3WyEBsfIUVTynU4E3ivmuTrItyh6yVWrrJ"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nounce 4600000
+Nounce 4700000
+Nounce 4800000
+Nonce: 4863408
+Hash: 0000028bf5a76ad604b438c99dece0203716c5ab743895689017bdb1e8bf9b40
+Elapsed Time: 12.7448 seconds
+Operations: 4863408
+Hash Rate: 381599.37 ops/sec
+
+PoW, difficulty 3,  block: "r1RzJmI5Nd0QUWB6GUmPDYu8NFS4ubobQ3RZeXVr0J7Jf6FmRpzSEjORmhLW6ywNrBkLY53NEyWkvZKAF9SJgfYIChc6VOHDPsOonF1q4LOnkYnnV3u1YI9YobT9qaA5GPhuSWYKhkxG8YrTQcKoiHBMiUKMsKGzXlhq83yddkjb8RsOr01P70adIio0sspGTKuRDivgIS7FhnROdGcY620Eac3GKiMdr4tubcRjsMmQ"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nonce: 1471237
+Hash: 00000320b937c287239537b55888c2dc019cf5f541d7e8316d4fb332a13a02ff
+Elapsed Time: 3.9708 seconds
+Operations: 1471237
+Hash Rate: 370516.61 ops/sec
+
+PoW, difficulty 3,  block: "2eP86o3wc5K4yREVbfCUMwvoBSXO5nAxFPtA1mwTi5LUKNpjtr35coib73n0enlj3Uju5UEbNPvXbb6KG0Dgcj8ZclN6PyeIJB0CV4diIM3hn0psoqMEQKcqupl9eFFlE5nayE64Q0b2oGiQuuUA3upnaQk2TndXgE"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nonce: 1433851
+Hash: 0000037f5b41be58b2d8057b842d39985ee5a34fc5773c38fbd6a8a5518bc96c
+Elapsed Time: 3.6918 seconds
+Operations: 1433851
+Hash Rate: 388385.84 ops/sec
+
+PoW, difficulty 3,  block: "UGqMWelOGpwWafoYYZDBzRjpkMI6sKpBQVLkzxz5ajPyC4NaRQZEi8tGIzA19q0NBBxzwkuLIA9K2MjJb8N754BDtC2qsq3rsogcPPnXNnfFxEMOBXJ4RL5ALyo3ehiKJDnYSOtd1PinRszSF9KWKGUV46MWbsfkvI9BUqeK3AxLsmbxlmHtsZCkVM4w5ZXof"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nounce 4600000
+Nounce 4700000
+Nounce 4800000
+Nonce: 4874266
+Hash: 000000ccfb4493b25ae9deae1c2fae35e865866df654f5c001cd3bf55ff6c7f3
+Elapsed Time: 13.4692 seconds
+Operations: 4874266
+Hash Rate: 361883.69 ops/sec
+
+PoW, difficulty 3,  block: "o0AGA4HvDxXej7EoouErUX3NKwmfbIxF6xL4pQpqECLl7NPm8RTQpKdx7ESWMFbG0kAezpK1pTcnfrNd9grmoLZlPp7ZsWdi5dAuGJlvaBW3qjWpDCPsLoRYTNxBjOicpgMvpveEw17daSGcUWKf8Z3SmoTK01mfWx"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nounce 4600000
+Nounce 4700000
+Nounce 4800000
+Nounce 4900000
+Nounce 5000000
+Nounce 5100000
+Nounce 5200000
+Nounce 5300000
+Nounce 5400000
+Nounce 5500000
+Nounce 5600000
+Nounce 5700000
+Nounce 5800000
+Nounce 5900000
+Nounce 6000000
+Nounce 6100000
+Nounce 6200000
+Nounce 6300000
+Nounce 6400000
+Nounce 6500000
+Nounce 6600000
+Nounce 6700000
+Nounce 6800000
+Nounce 6900000
+Nounce 7000000
+Nounce 7100000
+Nonce: 7163603
+Hash: 000000511f70a1a340a87defbc07a96d81c780d6d3ba075b87732b3a4f9ae74b
+Elapsed Time: 18.6323 seconds
+Operations: 7163603
+Hash Rate: 384472.14 ops/sec
+
+PoW, difficulty 3,  block: "BguDTjBu8RyajIiEH75ZihqqXgQ02DE1kw51W4jSLXsugOwnJpCpKqVfMmVEnZ6NLzCftlx29dkdrUGz7GeHw0m7c5BDS5PdsR7b1uRyOzR3JVsGbNLLBvGbqGe8BtasBVJ2FZqRO5LYQ3cpEoyFZ5gEB9AAsYsrt0hzNLEbGPxWHQ9L2yPRrtTqsUoZsVGaJoNW"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nounce 4600000
+Nounce 4700000
+Nounce 4800000
+Nounce 4900000
+Nounce 5000000
+Nounce 5100000
+Nounce 5200000
+Nounce 5300000
+Nounce 5400000
+Nounce 5500000
+Nounce 5600000
+Nounce 5700000
+Nounce 5800000
+Nounce 5900000
+Nounce 6000000
+Nounce 6100000
+Nounce 6200000
+Nounce 6300000
+Nounce 6400000
+Nounce 6500000
+Nounce 6600000
+Nounce 6700000
+Nounce 6800000
+Nounce 6900000
+Nounce 7000000
+Nounce 7100000
+Nounce 7200000
+Nounce 7300000
+Nounce 7400000
+Nounce 7500000
+Nounce 7600000
+Nounce 7700000
+Nounce 7800000
+Nounce 7900000
+Nounce 8000000
+Nounce 8100000
+Nounce 8200000
+Nounce 8300000
+Nonce: 8309143
+Hash: 000002b6c1b211e7bdd6e2a5cea7a3f06392a1f0e9e7f5808dfa09165f5d5f71
+Elapsed Time: 22.5885 seconds
+Operations: 8309143
+Hash Rate: 367847.98 ops/sec
+
+PoW, difficulty 3,  block: "Rx4fjOmzMvrA86psQTYi7xOQ4oZg1vTHhLmGYO3k7ii6cNoqgAObybsqDHK51dAWnmaByTltzJpRUR60SIRGj9unF4g6VgS8Gq729ilwpPB9g7xwGF2nCmQHeuB0ORyU7uK4Swo69q5fltSpwITwth2NS3DgJ0zGk790tnwsTqM3XciJk13TZvfppgJwU6244ztldfSuJeng6KneBhwYSRB5vJrGFi89XrlyL"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nounce 4600000
+Nounce 4700000
+Nounce 4800000
+Nounce 4900000
+Nounce 5000000
+Nounce 5100000
+Nounce 5200000
+Nounce 5300000
+Nounce 5400000
+Nounce 5500000
+Nounce 5600000
+Nounce 5700000
+Nounce 5800000
+Nounce 5900000
+Nounce 6000000
+Nounce 6100000
+Nounce 6200000
+Nounce 6300000
+Nounce 6400000
+Nounce 6500000
+Nounce 6600000
+Nounce 6700000
+Nounce 6800000
+Nounce 6900000
+Nounce 7000000
+Nounce 7100000
+Nounce 7200000
+Nounce 7300000
+Nounce 7400000
+Nounce 7500000
+Nounce 7600000
+Nounce 7700000
+Nounce 7800000
+Nounce 7900000
+Nounce 8000000
+Nonce: 8090904
+Hash: 0000005d29b87c1c4a3dca55c0b65bab8bf1da6125e426539bd9137c56493590
+Elapsed Time: 21.4049 seconds
+Operations: 8090904
+Hash Rate: 377992.46 ops/sec
+
+PoW, difficulty 3,  block: "hUVIzPSctS9doQuqLez1k2Zi2uQbjZUGrnMg2f9lv6FZKxDWP0NztkWlUkA19U5q5INxlKWWEbvPNxlcnwQWUm5mM5eJNXzIdA5EKSYPrKe27DTixj5HLytVuLe5hREAS7FcNdp3lHvgKEF7l8CuuuFc5hYczabHVeh"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nounce 4600000
+Nounce 4700000
+Nounce 4800000
+Nounce 4900000
+Nounce 5000000
+Nounce 5100000
+Nounce 5200000
+Nounce 5300000
+Nounce 5400000
+Nounce 5500000
+Nounce 5600000
+Nounce 5700000
+Nounce 5800000
+Nounce 5900000
+Nounce 6000000
+Nounce 6100000
+Nounce 6200000
+Nounce 6300000
+Nounce 6400000
+Nounce 6500000
+Nounce 6600000
+Nounce 6700000
+Nounce 6800000
+Nonce: 6853853
+Hash: 000000524bfa44538b7bea61d02d1ea0854daca14745314cba6cfcdb0b8eab11
+Elapsed Time: 18.0028 seconds
+Operations: 6853853
+Hash Rate: 380710.18 ops/sec
+
+PoW, difficulty 3,  block: "7LchSLBdOEYzCZivJnNCJjd894DVYi2TtS0Cd0dr4zf5ODqVo3Yxd1tavutHTlaC3PCVFdC9Rf4fik1LcN83EqTxaD4tmSughu1mM1mdVe61DvCf89WAppxDqpxR8fxfNmIZbs2wKzoNioshnChQsTUW8Fn6iYav8gLaOBKYywkXbQ2CTXT9qlVnq7hOT77SdIqpKyC8lmTA2LCJjTI"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nounce 4600000
+Nounce 4700000
+Nounce 4800000
+Nounce 4900000
+Nounce 5000000
+Nounce 5100000
+Nounce 5200000
+Nounce 5300000
+Nounce 5400000
+Nounce 5500000
+Nounce 5600000
+Nounce 5700000
+Nounce 5800000
+Nounce 5900000
+Nounce 6000000
+Nounce 6100000
+Nounce 6200000
+Nounce 6300000
+Nounce 6400000
+Nounce 6500000
+Nounce 6600000
+Nounce 6700000
+Nounce 6800000
+Nounce 6900000
+Nounce 7000000
+Nounce 7100000
+Nounce 7200000
+Nounce 7300000
+Nounce 7400000
+Nounce 7500000
+Nounce 7600000
+Nounce 7700000
+Nounce 7800000
+Nounce 7900000
+Nounce 8000000
+Nonce: 8066013
+Hash: 000001e2f0a860f63b78030fe5805b27b078f5e3d33526da2fa781d9a7074380
+Elapsed Time: 21.5409 seconds
+Operations: 8066013
+Hash Rate: 374450.77 ops/sec
+
+PoW, difficulty 3,  block: "4c0iZYusTs8vyoa8da5CAMC3YCA5WJIOl9x8VhqoPnZERyAsO3sPGuGcvGXFNfTycEuxmZazCz1Tn0A0rsFvbJNMPiPbEiNel8SLXs8Zf0qHoq7TXAFyHQ8UzNv1t9VU7lfURetvSX24CxNZvSL2jJMWU8ND7gW2G1MXT3IjO8dQtppe70Ue7hyRd9TYgpQmea7wRGVfCxuwc"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nonce: 2505976
+Hash: 0000016ae4b719960848dc9a486829db50901fc42fde8a7b9f601f0072d39061
+Elapsed Time: 7.0911 seconds
+Operations: 2505976
+Hash Rate: 353395.71 ops/sec
+
+PoW, difficulty 3,  block: "OZOj2LEqbfqu1KXFu1drnuv9Nyw7iMVwljTbsVGH0u1p4OuoENVr5FoJ1YEZkZJK6blnwpulZkQTw950MPgIUKRLhTiFtrPpIzS3eDe2lsLXrFO2UuAm2PxZiVfPAs5HhLAAMc2xIBL0EZqYHqA73vVZEypFgiMCtKA6m2tu12i6POSW2RStAnJFbwI7UU7Dc77ExpwphTjxhzHYGZFHCOK"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nounce 4600000
+Nounce 4700000
+Nounce 4800000
+Nounce 4900000
+Nounce 5000000
+Nounce 5100000
+Nounce 5200000
+Nounce 5300000
+Nounce 5400000
+Nounce 5500000
+Nounce 5600000
+Nounce 5700000
+Nounce 5800000
+Nounce 5900000
+Nounce 6000000
+Nounce 6100000
+Nounce 6200000
+Nounce 6300000
+Nounce 6400000
+Nounce 6500000
+Nounce 6600000
+Nounce 6700000
+Nounce 6800000
+Nounce 6900000
+Nounce 7000000
+Nounce 7100000
+Nounce 7200000
+Nounce 7300000
+Nounce 7400000
+Nounce 7500000
+Nounce 7600000
+Nounce 7700000
+Nounce 7800000
+Nounce 7900000
+Nounce 8000000
+Nounce 8100000
+Nounce 8200000
+Nounce 8300000
+Nounce 8400000
+Nounce 8500000
+Nounce 8600000
+Nounce 8700000
+Nounce 8800000
+Nounce 8900000
+Nounce 9000000
+Nounce 9100000
+Nounce 9200000
+Nounce 9300000
+Nounce 9400000
+Nounce 9500000
+Nounce 9600000
+Nounce 9700000
+Nounce 9800000
+Nounce 9900000
+Nounce 10000000
+Giving up
+Nonce: 10000001
+Hash: weqweqweqweqweqweqw
+Elapsed Time: 27.8508 seconds
+Operations: 10000000
+Hash Rate: 359055.98 ops/sec
+
+PoW, difficulty 3,  block: "8SZSkWUCURGF60scJRNpFSDLsGQsVaKRshkS34ULJYPEP7gYNrBS9EdrLsYeIgtzDTF4LaETwTX9Q1WdiXthaLNj3jD9FuyIE4ANSEgCV1CmsYDQtxyJ89szityneltgfrtvwOxFFxryJtC3eyCaxtPTcB64mnaFVIyFWmIbXyNhhOa"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nonce: 4000069
+Hash: 000000761cea4380abf3185af98140445e0399f3e65dd496ed16fbf366d45d7d
+Elapsed Time: 10.6802 seconds
+Operations: 4000069
+Hash Rate: 374530.20 ops/sec
+
+PoW, difficulty 3,  block: "CaZyJmHknCeOp3R8BGBVqKuD88idM8cMX1AgbIECKhQxagubmvuQ3eRzc0SmyuxJjxq83sBBPPzpvjEVSylKT39trSUfAFpi2Tgu9fvPvi2gF50YtZgAQfs7vAbuFES5VwpUSZjB7ahDVVbCv5B9at7KrW4uaKpv4TDKslLpBrqWCFYvAZvZGsjvEbfcjJLdcOoIzzv0gcKhhhSi4D7Bt"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nonce: 386655
+Hash: 0000011f6c489953941ad691d35472194b90fc7ed2b1e1c522970b3f3882a593
+Elapsed Time: 1.1188 seconds
+Operations: 386655
+Hash Rate: 345587.15 ops/sec
+
+PoW, difficulty 3,  block: "wv5QLeZW5zlj7aXsP1IZYq4pOzqJ0ankJiyVANr5CQd7r0o4pwREcMtoBZvzxYX54MO2X5yYKPVzF9tuwAwMMdzL1kAm7Yhzivs5peTztpowmVeWVRjgsWrj6sM3ErrmdZhG3z3kehWE0ybLF8pwUXVQDfIFNzroMMuDBnndI7i8v9Hz7xlPI4fJal"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nonce: 2528076
+Hash: 000000a17112e52b8930734b67c67b4db195cc4554910ba50da843dbc4280b10
+Elapsed Time: 6.9670 seconds
+Operations: 2528076
+Hash Rate: 362864.31 ops/sec
+
+PoW, difficulty 3,  block: "la3PkF7nHiQiqLGm5Dru8cTNkNrrlS5MrybR4Y596JhkVmKQp28mURz3cgkExeQeSsvKEoH9ynjHPsV2kRe2gSt8ySClwRDC9xNBbSAN5iSIQlBy2dqYvYXiqXHcoLcl8pnX8lj1J1AZdBNTc2qOOBw4Y3UBEwmAaNWWz5L8uLWLKhfnXL1lMndievjhiKf6"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nounce 4600000
+Nounce 4700000
+Nounce 4800000
+Nounce 4900000
+Nounce 5000000
+Nounce 5100000
+Nounce 5200000
+Nounce 5300000
+Nounce 5400000
+Nounce 5500000
+Nounce 5600000
+Nounce 5700000
+Nounce 5800000
+Nounce 5900000
+Nounce 6000000
+Nounce 6100000
+Nounce 6200000
+Nounce 6300000
+Nounce 6400000
+Nounce 6500000
+Nounce 6600000
+Nounce 6700000
+Nounce 6800000
+Nounce 6900000
+Nounce 7000000
+Nounce 7100000
+Nounce 7200000
+Nounce 7300000
+Nounce 7400000
+Nounce 7500000
+Nounce 7600000
+Nounce 7700000
+Nounce 7800000
+Nounce 7900000
+Nounce 8000000
+Nounce 8100000
+Nounce 8200000
+Nounce 8300000
+Nounce 8400000
+Nounce 8500000
+Nounce 8600000
+Nounce 8700000
+Nounce 8800000
+Nounce 8900000
+Nounce 9000000
+Nounce 9100000
+Nounce 9200000
+Nounce 9300000
+Nounce 9400000
+Nonce: 9435241
+Hash: 0000012fd3add23df784284e3a1c19ed6a4f984df9547c4ccd8f57ad2dc451c1
+Elapsed Time: 25.7028 seconds
+Operations: 9435241
+Hash Rate: 367090.26 ops/sec
+
+PoW, difficulty 3,  block: "1QKwbHfnbqv8JYWSP7e0ZBTKi0qsVmEL0M5SRa3sHorOBBhO69FVAWgjMMPfxRqnck3tAuaFXHUYG1mCypYzB4WLEjpzzVdR5U84DY9adRwjGWm5A8s90CL4l0sYJJnDdm7e842aKo7Q9hL9f18T3HMd741FDfGgFDBB53bFgXUf4dcYVarMi3pdxhg0AmVFnUEjLemr16KtYmHtBx5hqj8cGfSEHnHv5LSHp4wez7ONhT4gGxD"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nounce 4600000
+Nounce 4700000
+Nounce 4800000
+Nounce 4900000
+Nounce 5000000
+Nounce 5100000
+Nounce 5200000
+Nounce 5300000
+Nounce 5400000
+Nounce 5500000
+Nounce 5600000
+Nounce 5700000
+Nonce: 5764055
+Hash: 0000020c6c1f1320fcd495894cd42e989834efff8ab22c83549e5d2442298a18
+Elapsed Time: 15.6555 seconds
+Operations: 5764055
+Hash Rate: 368181.51 ops/sec
+
+PoW, difficulty 3,  block: "WCNahfcmHjXCvpHYi43XzFiWYa1dL4Og4b6Z6ZCB6XErDJGjD742CaPY0G1B8Ff1gcQbzQcvoebpofMpcGicgv0UzsTxvzmSP3rCHHvtkMWOri3HoZjIKac9GuvzjXFwOwyW4jFewcqb8hjl7GtHeKFk20abNfNcQ9wIizmSPQuOvRzsXgy2o1agry52SGSiFCqm2Q4HemVP1I6PnsFPhduMSpEkwVGzXubN8UVc6opyv"
+Nounce 100000
+Nonce: 149634
+Hash: 000003181592bbd1e2d89369de8cffc457e2f1d6c9bad0233d7b458c390d3068
+Elapsed Time: 0.3874 seconds
+Operations: 149634
+Hash Rate: 386289.83 ops/sec
+
+PoW, difficulty 3,  block: "BYRElyhVAzBDXvWbirL85JSQjM4PAny99EDl0j61W52soOJN3VLycbECn7PmkDliHnJ8KDxg7nOlzYwsr5hJWjJAgYmFaLnhwud6xObs1pUoBEXqA2yUb7U8W4BwGmR0WtxH7O0x1Ib3MwhKoVfETzAnsBXynmo9VZERl4CdCbUNO1X0N24eq4FY3cKeEwbYKgnvapMbGeoSU9Jf0B9g4E2xeASgwt46NfqoK2DRXpjpoqK"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nounce 4600000
+Nounce 4700000
+Nounce 4800000
+Nounce 4900000
+Nonce: 4993323
+Hash: 0000011b51408956ecfedc095e666411622a31f32e11268d9b066046bfeafac5
+Elapsed Time: 13.3447 seconds
+Operations: 4993323
+Hash Rate: 374179.31 ops/sec
+
+PoW, difficulty 3,  block: "qJ8kLyVpynJjVEdihJKsAL7V0eAfJK7zR6ZcuuFhWOGpQhNypWephb8Y581EGy1XsQxdB28VECAVjLHOhl1DAzZ5vO81CxMvE7MDzKY2KYLtjS6F3vG3jdwUrsKrgUciSmlFu774VIm2Yg5PR9G0c3JHjTzDlPj32K9mH4faBHRZnMp2Mvtmm2uKJjNuwxmo5jPBbsZcxq2a1hQDS9"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nounce 4600000
+Nounce 4700000
+Nonce: 4751561
+Hash: 00000271fbfe3cb29e3920ea049c97737bdc785d37521d703d5737324fbacd07
+Elapsed Time: 12.7717 seconds
+Operations: 4751561
+Hash Rate: 372037.62 ops/sec
+
+PoW, difficulty 3,  block: "5zXF84QrrBRT5yg6POVsBCkZ3Hq4XnfSd3VZvkEalTseHMaXZuFYupylucfHDAYe1t4lR691QrVX4usRexpOadzK3SQ5QoZIVRrnOqecWxxOhgfBRKNsmC0dSEYjsypEDWpRAHrU4ficBBbQKp6wpvN8zmhiYMkbgNreU"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nonce: 2760883
+Hash: 000003f5cc61bb11d376c59e183d300323997a6d6d2599242780415ddeccd246
+Elapsed Time: 7.4058 seconds
+Operations: 2760883
+Hash Rate: 372802.42 ops/sec
+
+PoW, difficulty 3,  block: "zM3Vm2XEJfrFRW0eSoExMa7u2d7j6P7vbzEErZGy4x2JHqmYUqLgHJO7kJggYbP0QU26t6uormxyRZKlEWGLdUIDemi0BxoSHgMza4dHfO4wmEXqYdz1y55QhbGiOtyUPAJq5kvaypKauhGIB38xy1BVSF2gyq0Cp7qihb6WHGuznz5ms3ZhuY0Ceq"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nonce: 1816712
+Hash: 000003a8c993d3ae65298c3e6b7a9502a22f436fdcd0a747e440e9b2bea33707
+Elapsed Time: 4.8736 seconds
+Operations: 1816712
+Hash Rate: 372767.83 ops/sec
+
+PoW, difficulty 3,  block: "SVVSAT8g0acKfg3UJsPuYJH33gs4AYbQtwjtFhN45pCaL5sTl8D8FK16qj0o6P3pCcXF7k73OARX3Aqf8rdD2S7g0yJwDCZDewJZVESjEk68klbgS2hIIen8QwsUyIVQ2cpLh6slenhCO6iewDn5hQ1yCiGyoZCg2pqZlY8FBeHNansNqVGOl7AlfEZJdZoVEUsqq"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nonce: 4188753
+Hash: 0000015a784ef573163b33f412dd07594c98659a2f23950f9c0edcd276a2b530
+Elapsed Time: 11.0123 seconds
+Operations: 4188753
+Hash Rate: 380371.79 ops/sec
+
+PoW, difficulty 3,  block: "tsL15jcnuJ60VhwTGPXdXy29K7R0n7fWnoLhOmI6vFxEkhXrwuKHiDGqAXflTA56pFd3rmzapkePH162lF7HIEwGbRrsRkp6pGxWslwXJOlPFhHqkEwsGiwgzbOEC3Bp8wAqXwCfBnuEIzvt3fZ8DKe0lq4ni3TgoTM9DMe"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nounce 4600000
+Nounce 4700000
+Nounce 4800000
+Nounce 4900000
+Nounce 5000000
+Nounce 5100000
+Nounce 5200000
+Nounce 5300000
+Nounce 5400000
+Nounce 5500000
+Nounce 5600000
+Nounce 5700000
+Nounce 5800000
+Nounce 5900000
+Nounce 6000000
+Nounce 6100000
+Nounce 6200000
+Nounce 6300000
+Nounce 6400000
+Nounce 6500000
+Nounce 6600000
+Nounce 6700000
+Nounce 6800000
+Nounce 6900000
+Nounce 7000000
+Nounce 7100000
+Nounce 7200000
+Nounce 7300000
+Nounce 7400000
+Nounce 7500000
+Nounce 7600000
+Nounce 7700000
+Nounce 7800000
+Nounce 7900000
+Nounce 8000000
+Nounce 8100000
+Nounce 8200000
+Nounce 8300000
+Nounce 8400000
+Nounce 8500000
+Nounce 8600000
+Nounce 8700000
+Nounce 8800000
+Nounce 8900000
+Nounce 9000000
+Nounce 9100000
+Nounce 9200000
+Nounce 9300000
+Nounce 9400000
+Nounce 9500000
+Nounce 9600000
+Nounce 9700000
+Nonce: 9732687
+Hash: 000000c03d154d3c0148fd71693c528cba29be96fdb90e6d7d95faac4810a33d
+Elapsed Time: 25.3974 seconds
+Operations: 9732687
+Hash Rate: 383216.03 ops/sec
+
+PoW, difficulty 3,  block: "xOH4D0l5TA3UIVKuBCVj4mFi3Qh5aC5MQAGS0rNHpEbyZjgYm16geBCXPjSojO0yO6GDlRIOVkCsJiGtYAP2CPNPze3WstK4nQ5OfEb0mdivAnfYnsOn8b1v5sHlaSeDgXQCZr0BIXvG8Oel6qN2IClButlK9DMdacdyHUzPrkWpwyOrfZjlbLkM2LUzMgSn6wbDEORvxnYjZkQ2AydZ7EjxN4maY2"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nounce 4600000
+Nounce 4700000
+Nounce 4800000
+Nounce 4900000
+Nounce 5000000
+Nounce 5100000
+Nounce 5200000
+Nounce 5300000
+Nounce 5400000
+Nounce 5500000
+Nounce 5600000
+Nounce 5700000
+Nounce 5800000
+Nounce 5900000
+Nounce 6000000
+Nounce 6100000
+Nounce 6200000
+Nounce 6300000
+Nonce: 6356606
+Hash: 000000148c2645fa593713bcac948e6dbdaa8774af867a01f0a478326f1700b9
+Elapsed Time: 17.0053 seconds
+Operations: 6356606
+Hash Rate: 373802.32 ops/sec
+
+PoW, difficulty 3,  block: "VmaWqmnZXOv7oWLgU78r4ARpNJRlhKk0u8Nbj006Fm3r6DLQAJ73JMiVVy418drqb2HAt67wgybczmq0wlr5yPOHDJ89moqBgvANr57NtYphBTXx5CqtR30TCxQmb4n7qlJXgGjOfMvggGRbI5IXy6oyt5aKzCGdnP1ITYWykFSELhdRbloPiTERMcaBcefEtUMAqgxQlFTul"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nounce 4600000
+Nounce 4700000
+Nounce 4800000
+Nounce 4900000
+Nounce 5000000
+Nounce 5100000
+Nounce 5200000
+Nounce 5300000
+Nounce 5400000
+Nounce 5500000
+Nounce 5600000
+Nounce 5700000
+Nounce 5800000
+Nounce 5900000
+Nounce 6000000
+Nounce 6100000
+Nounce 6200000
+Nounce 6300000
+Nounce 6400000
+Nounce 6500000
+Nounce 6600000
+Nounce 6700000
+Nounce 6800000
+Nounce 6900000
+Nounce 7000000
+Nounce 7100000
+Nounce 7200000
+Nounce 7300000
+Nounce 7400000
+Nounce 7500000
+Nounce 7600000
+Nounce 7700000
+Nounce 7800000
+Nounce 7900000
+Nounce 8000000
+Nounce 8100000
+Nounce 8200000
+Nounce 8300000
+Nounce 8400000
+Nounce 8500000
+Nounce 8600000
+Nounce 8700000
+Nounce 8800000
+Nounce 8900000
+Nounce 9000000
+Nounce 9100000
+Nounce 9200000
+Nounce 9300000
+Nounce 9400000
+Nounce 9500000
+Nounce 9600000
+Nounce 9700000
+Nounce 9800000
+Nounce 9900000
+Nounce 10000000
+Giving up
+Nonce: 10000001
+Hash: adsasd
+Elapsed Time: 26.5023 seconds
+Operations: 10000000
+Hash Rate: 377325.57 ops/sec
+
+PoW, difficulty 3,  block: "BCWnP46RJGsjIKDlMu3Yvj2ixblGLK1KKNyaFspOzXw5gxesgXFP45vpXWugflppwdD1JtD6Ez1ilTRHoWWiPHOmb6H6hwkTPnKWUNTXBI5mcMtEgDlwKxWltdgQPGhcrpxC0GX1MSbmdKr9NStVFE7yfdCvhjLOM8OCCl4P4T"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nonce: 486710
+Hash: 0000007aa113768cbfd54068ec52b7b8abfabfe18d6e085c16efd47041a2d880
+Elapsed Time: 1.2601 seconds
+Operations: 486710
+Hash Rate: 386260.30 ops/sec
+
+PoW, difficulty 3,  block: "XcgUpyC91E4njVpS2MeGYaTbd4TqwkfJCCcq0cpqgjTF49YwJ00gQH5rCMVyw16z1WfryIVUrpXlmtVvjJPyRKdRWzFJo96fVbKHjgZOJxxveGeEPu0e2RvPGzWswSLGrUNO0nc7YPs0VK4i2sDvAwAEjUxWm6cTQnhEO7BmMtdf2VDuCEfC1dGax1uZwKqCyLHCIGnSyExqX1aZ54ZuXeJLT3i"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nounce 4600000
+Nounce 4700000
+Nounce 4800000
+Nounce 4900000
+Nounce 5000000
+Nounce 5100000
+Nounce 5200000
+Nounce 5300000
+Nounce 5400000
+Nounce 5500000
+Nounce 5600000
+Nounce 5700000
+Nounce 5800000
+Nounce 5900000
+Nounce 6000000
+Nounce 6100000
+Nounce 6200000
+Nounce 6300000
+Nonce: 6305118
+Hash: 000001970d357d05468a4335f371b9fca1866b3337909042937e9f0db8dc9648
+Elapsed Time: 16.5852 seconds
+Operations: 6305118
+Hash Rate: 380165.95 ops/sec
+
+PoW, difficulty 3,  block: "CPG0YL0fRdxFfjt3aIQTCqCZKLkdCHhEWn2sytNDKBHqi0j68zPAdPYna6FbDmdZPWGBFTCPSJ50Acw6QA7tPTVoPaDTCgqP2wO7GQLWaENYh7Uv7PeLizzyN2FPWvcPioKm5V8TYJr5F9oCPILv68hJymXLWza4ekeX4aoSiVLnSznf5zRzxw9mXUxtJLllvF6ndk3B3EoM1SpvH4k2rheE1Pv9aWiKZfx"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nonce: 2534087
+Hash: 00000212b4ec58823f52401a117ab2675a48551f3d37a17d8aed7a1804afe36a
+Elapsed Time: 7.1120 seconds
+Operations: 2534087
+Hash Rate: 356309.99 ops/sec
+
+PoW, difficulty 3,  block: "Dp45tgFjyuU3p2wUaOWRcHQ2bzA0SwqTbkOIFTr3E9vr2fBSrXhJcyA3lAr1uXKL6ZUBqB2uBnb1GaJyxq5Nc5GB4x2oJB0FYIGEH6xGkM7onEcYvWmLRqNJeDwnCmqasudzqO6Oa33B8TarpC25qDCKFyvHYZgGJ760L2Cjt5lrN9Y29PvpQy0Vkjb995FG"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nonce: 1187784
+Hash: 000003e8da65b47a6b6bbd8623a3a9577a1aaf103bbd8e572a715b1015553705
+Elapsed Time: 3.1713 seconds
+Operations: 1187784
+Hash Rate: 374539.07 ops/sec
+
+PoW, difficulty 3,  block: "B4917il2HQDGn4F2pvGbjaCIz9FuEKiEEh3BDc2Lt3RWxXMdIS2ps2vhzzP49x6DSxDWQ3h9wyTkJfBPx14gsqBhfRZcCTdVHgrVXMSI8lqIGrV1gQVO4XwXmJzodS9kxo3I0LQzw650lQrIeDUWaEtAOgorxoPkQIqHT74D1z3dFkjin34B8oBMIo15QGdgMKldFfg6UZZY786j00iyci8lMzgc386FIiiNDEHYbh"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nonce: 4444649
+Hash: 00000365234bce86c776e75489b733127208237c67e02ba57190f5a6cdf3e704
+Elapsed Time: 12.3684 seconds
+Operations: 4444649
+Hash Rate: 359354.28 ops/sec
+
+PoW, difficulty 3,  block: "Yds5TieFBCDkO0EotCkyKIUVMWdix8UKZAFrghwhjyFvoKZWM8IVEdoQzFwlDGvbEyIlW2G5qMpTWCngAvzFOeTCjEnlIYANMIyiA4cpEH6YJh3ISsLfMchugKTpgT2sZoPXgpClw673d09ujKPtnwbJ4syaBo"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nonce: 3474374
+Hash: 00000017f4ebfe0ef332561644c93bd197afa5b9b1a35abc0d67a726365d7faf
+Elapsed Time: 9.1564 seconds
+Operations: 3474374
+Hash Rate: 379446.19 ops/sec
+
+PoW, difficulty 3,  block: "aSVyz8yYutVmKKl4tuHaX10eviRJk5Q8Mju9ihXQOq0Y0cRhKW6hOw97UQH2MVzW4jVaEsrSWhpL76qHSmmeYmar2hjC0YYs6tJ8Z0RuV65R0lWGM9jij9PZexcUJyCDgJC37RnTLgiBI4FS1o0alG0F1QXA"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nonce: 976699
+Hash: 0000028f502efd0945e712241c6c6e494f30c7df4627827dbf7e9653323974d4
+Elapsed Time: 2.5062 seconds
+Operations: 976699
+Hash Rate: 389715.60 ops/sec
+
+PoW, difficulty 3,  block: "aEihEcfVDygkUfqOk8GNyey2U2tiPslnuJLyjqHlcnJwGxAqvE1hjoY1gFavxBZfIkRqQYRs9YcFLau4flbEPx3v3TfoS4KZcbFsyUYxsy33OlxtMMva8pJ16ofNinmADrq19Cmp0fiDGTwRdgrbJ0QF"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nonce: 1585249
+Hash: 000000a8c1773180dae34dce3fd8367fd998f140e691e3891d48c0e49435e6cf
+Elapsed Time: 4.1003 seconds
+Operations: 1585249
+Hash Rate: 386614.79 ops/sec
+
+PoW, difficulty 3,  block: "uQBX2AYhoPgp2LdVrga8TpaxWz6KE9nyQnJIlioNvI2lSW772V4JAU4UH0cL0E7ErHKQnydY7WAPq5MgOGoOYigeX8pLCnPrsZ5VMZrJtpWZkg5wlhA9GedddHmds1JaOEtYdahMG1joYfb9AZ6G4YhVdHwL85jLASj"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nounce 4600000
+Nounce 4700000
+Nounce 4800000
+Nounce 4900000
+Nounce 5000000
+Nounce 5100000
+Nounce 5200000
+Nounce 5300000
+Nounce 5400000
+Nounce 5500000
+Nounce 5600000
+Nounce 5700000
+Nounce 5800000
+Nounce 5900000
+Nounce 6000000
+Nounce 6100000
+Nounce 6200000
+Nounce 6300000
+Nounce 6400000
+Nounce 6500000
+Nounce 6600000
+Nounce 6700000
+Nounce 6800000
+Nounce 6900000
+Nounce 7000000
+Nounce 7100000
+Nounce 7200000
+Nounce 7300000
+Nounce 7400000
+Nounce 7500000
+Nounce 7600000
+Nounce 7700000
+Nounce 7800000
+Nounce 7900000
+Nounce 8000000
+Nounce 8100000
+Nounce 8200000
+Nounce 8300000
+Nounce 8400000
+Nounce 8500000
+Nounce 8600000
+Nounce 8700000
+Nounce 8800000
+Nounce 8900000
+Nounce 9000000
+Nounce 9100000
+Nounce 9200000
+Nounce 9300000
+Nounce 9400000
+Nounce 9500000
+Nounce 9600000
+Nounce 9700000
+Nounce 9800000
+Nounce 9900000
+Nounce 10000000
+Giving up
+Nonce: 10000001
+Hash: awdeqweqw
+Elapsed Time: 26.4108 seconds
+Operations: 10000000
+Hash Rate: 378632.55 ops/sec
+
+PoW, difficulty 3,  block: "qFmu6LXSoyPpLMtDiPYBWLMTEvcEBBerEEc9PzR2lffurMyPbMOyVaFaJhcKg41l8RiMGxEpSha7tOKLYY7uyCI7hkFDf7mdOKpT8r6OOWM6iWH7vCphCxdjVimydPQqX39Tl5ixQstyEyvxyaT0LwXhSATwNjcidb2"
+Nounce 100000
+Nounce 200000
+Nonce: 271491
+Hash: 0000007e26fa81364ae776bf78c07d0d5e3b21833fcadd0b4299359eb171a04f
+Elapsed Time: 0.6937 seconds
+Operations: 271491
+Hash Rate: 391362.64 ops/sec
+
+PoW, difficulty 3,  block: "UaziGhXKTG6IfP6q9ULRUfDfCdDf23hNRVtX0GgJNcRspOWmig3095TBYUhROCcfVL3LQXVbzkJcydEU95I60b8Nwde8f4dzFUATrVue416sV8BS4JPujN7ToZRHRu6XD7qsQZLKQF1lE0287FqgQmz49EBRx8m03QgJprS6xJfz9Xx4abbqDOkBTkSGi44bKYi0G0"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nounce 4600000
+Nounce 4700000
+Nounce 4800000
+Nounce 4900000
+Nounce 5000000
+Nounce 5100000
+Nounce 5200000
+Nounce 5300000
+Nounce 5400000
+Nounce 5500000
+Nounce 5600000
+Nounce 5700000
+Nounce 5800000
+Nounce 5900000
+Nounce 6000000
+Nounce 6100000
+Nounce 6200000
+Nounce 6300000
+Nounce 6400000
+Nounce 6500000
+Nounce 6600000
+Nounce 6700000
+Nounce 6800000
+Nounce 6900000
+Nounce 7000000
+Nounce 7100000
+Nounce 7200000
+Nounce 7300000
+Nounce 7400000
+Nounce 7500000
+Nounce 7600000
+Nounce 7700000
+Nounce 7800000
+Nounce 7900000
+Nounce 8000000
+Nounce 8100000
+Nounce 8200000
+Nounce 8300000
+Nounce 8400000
+Nounce 8500000
+Nounce 8600000
+Nounce 8700000
+Nounce 8800000
+Nounce 8900000
+Nounce 9000000
+Nounce 9100000
+Nounce 9200000
+Nounce 9300000
+Nounce 9400000
+Nounce 9500000
+Nounce 9600000
+Nounce 9700000
+Nounce 9800000
+Nounce 9900000
+Nounce 10000000
+Giving up
+Nonce: 10000001
+Hash: aewerwre
+Elapsed Time: 26.7938 seconds
+Operations: 10000000
+Hash Rate: 373221.12 ops/sec
+
+PoW, difficulty 3,  block: "17Pq4lbzB2Qs4cQ5t0NxWFpvPEUDIIx9GBnAmEzl6DRyeitNW49r9ocPsuQy3Ex7Da5pevQZwiNOE5cYzbFzDgCuQSiHUWCXu8ANrPmbvxqxqILghPTkvTU9j1F4NHP7FOIudsMOg2BMAKqfZ7DIQWG0NLuYS7TWLcGmKS"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nonce: 861140
+Hash: 000002fcb06b61ed9e771fa12ef9d507bcb82bf8834fc2f0465beac3ca6f0dbb
+Elapsed Time: 2.2492 seconds
+Operations: 861140
+Hash Rate: 382868.59 ops/sec
+
+PoW, difficulty 3,  block: "oKz1I8flVdpetBkhMtPkBN3VWVc9gsxI3l99jdl44QWlP4JblY9nj266MY5qFqy8Rw50NgtHuDs961YhOVIxOFtYbmEgT0ckmYZz2G4nJnkDc7lqSreewL0My2qHtJpTfEHVKB6SmfVFc4tsmLLWXBiJ4NQlW34z8BIGBFYnkuqAmaqOlzj6zFFrSTSmNKZLKiRLlowJWdH83xLc"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nonce: 1122511
+Hash: 0000038823a7f8f98cf016452c881a7ab99a68696843dbbb79f83ebf2d3f7c36
+Elapsed Time: 3.0051 seconds
+Operations: 1122511
+Hash Rate: 373533.96 ops/sec
+
+PoW, difficulty 3,  block: "uXazcHGuZs7hIGroV2P9pYVGdS7QdX1LuPANWE7tx2R388fRzuRcGkij2dxT0nel2dwNhr6SjNJfKou7WBZak59aYvuOWMzMpjZNQUdxfnSnRDkoC9Ek2CBQvtdF5QRj0puE7N2c0KGGLosMouueuvvfcMiWay5QbpVY0NypV2vfhbpJLZn4JWXjg657uyNLbghSrT5BMoerFJyOibIpwgPScKPK7bT"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nounce 4600000
+Nounce 4700000
+Nounce 4800000
+Nounce 4900000
+Nounce 5000000
+Nounce 5100000
+Nounce 5200000
+Nounce 5300000
+Nounce 5400000
+Nounce 5500000
+Nounce 5600000
+Nounce 5700000
+Nounce 5800000
+Nounce 5900000
+Nounce 6000000
+Nounce 6100000
+Nounce 6200000
+Nounce 6300000
+Nounce 6400000
+Nounce 6500000
+Nounce 6600000
+Nonce: 6651653
+Hash: 00000046b0932539a91e4b86cad26f5806f6912263725c5525d12cbde527a714
+Elapsed Time: 17.5735 seconds
+Operations: 6651653
+Hash Rate: 378505.04 ops/sec
+
+PoW, difficulty 3,  block: "5yonHjmRNG6QNuftKlZ6HoOhwcpr18GwwsX2Q9JbDEsQyLA8uX409HXthDbY9fKuNimbft3jxjzksxicIbSHgo1BrQZovhY6DAWjsPIdy5Derk6zBN5f1wgiA5KtajpehBBPOJrACuetUZhTmcydMU9MNJ5msiGOiHdwOKvO3P8NodhO5TrH"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nonce: 4466596
+Hash: 0000039156a48d60226d0ab6b03c6d5517f29402d0f4c68a6ad3a74d9a77738b
+Elapsed Time: 11.8239 seconds
+Operations: 4466596
+Hash Rate: 377759.64 ops/sec
+
+PoW, difficulty 3,  block: "qTz0MbgufuSkMFwU0BND7Zqa44VLkaxQtnE3CjngR6Gd93wx27yzUePOXia78LLpwOizxJTCFXgCOQxGNm5gGKudqIYoSkTEwz1j9KlCiFFwT21fewBj5tAl0ZOI7fMtVEQSMzUs3XfKOUpsGqP9aOlOlzWiUiPnkd5xSQfJl8UzS9gXovWC95QkumGDIVorwkcFy7MZ4gPKevhGe2IcxW"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nonce: 830275
+Hash: 0000018522a79cdc3831f419731aeb705767f3828bdc0e2b75cd025d8fd9d231
+Elapsed Time: 2.1593 seconds
+Operations: 830275
+Hash Rate: 384509.40 ops/sec
+
+PoW, difficulty 3,  block: "g6HhEaLtNtLQhHc5B7IJb1phThnvS9yw53T7TdpgM0ws7Pl6MtGlivG1QrniqZVjSmelDJIQ8465Hh2RO82wr6n7nOdRnwy3ZRfcalqYdmSlHK0VGrHvntsP7Jej6TcTi7t6gYVAAljGtZbzGhisQO5NXZwTqNkO"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nonce: 3437735
+Hash: 000000c069e8bd95cd354791dce6360a613dc2124c4945645dbda8e60592b2c3
+Elapsed Time: 8.8857 seconds
+Operations: 3437735
+Hash Rate: 386883.42 ops/sec
+
+PoW, difficulty 3,  block: "ULrsepqFOwylOlqvHW9VRMso7CVImhS4s7mKkRNwD9YPiEApa7ApKtTFtoLTMdM2ZwB7DOuHOIWwKVciSaNaHgdyJoGTGSJdEKaIZKNlQhXY2x6JMJhToBGvnMEtcLKgWjmtrxU8VpWLdRUna26C1AxeMzMoBWJV5tEnhWj2B3DcKWFjOAlDAXhLKrzJC6c5qgiN2FF49GUHcaqoaQrYnNjv4Z36VV2B2YMscRkZW5gyVNbtdGHETr"
+Nounce 100000
+Nonce: 108700
+Hash: 000003ced1d6f2d5d63448e8050df3b78781386a79c5ab0c01e8065f5d2f9d81
+Elapsed Time: 0.2882 seconds
+Operations: 108700
+Hash Rate: 377129.38 ops/sec
+
+PoW, difficulty 3,  block: "MEsGXC6X4TjkvzLKLEq7Z1WGUdLWu2M442BQ45nwOKV97gHIkwE7lYD6zOSkFcc7TdNLZy6l9Rj6xqDVaFQCdT6RfM1ipTg6vrHIeBtdSSXD7YYVboX35TKZgB5JSZDBHIJlK1CcHXgCw2YLftEYBOxfPtogIphNxpw7ewYjK2k4s8FNpKkqYXLmExGLclWQOJLq5hQDX07GwBRbL1GhNRHPFNahxxvB45szc630uy4gzL58BBeOR"
+Nonce: 14012
+Hash: 0000021339b12f11ebc7bddac275cd832acdeb9e2b1b94cc4eddecca2e031df0
+Elapsed Time: 0.0369 seconds
+Operations: 14012
+Hash Rate: 379215.16 ops/sec
+
+PoW, difficulty 3,  block: "dWx21kpljhgPU6LLu3AoZxyTwzSOBhzc3kUtI7Usey7zuHAdA8HYw3pgs5urdhKUIcDQaV62H2p07oT7mYTWS6082kqVGypMQrcoCXfIPK8MyRHZpbv7Xk6PIkiOYOam51P5OuDd29nrQuE4LxzhXtugTTupfJQaAfTONVpFUSujCydMmSr9AbfTsO7NXLlXo3j1OO6igrHgfiqF1XF1ziIfwDtJMSg0LDrXRo6vTBQwk62ZU5OHd"
+Nounce 100000
+Nounce 200000
+Nounce 300000
+Nounce 400000
+Nounce 500000
+Nounce 600000
+Nounce 700000
+Nounce 800000
+Nounce 900000
+Nounce 1000000
+Nounce 1100000
+Nounce 1200000
+Nounce 1300000
+Nounce 1400000
+Nounce 1500000
+Nounce 1600000
+Nounce 1700000
+Nounce 1800000
+Nounce 1900000
+Nounce 2000000
+Nounce 2100000
+Nounce 2200000
+Nounce 2300000
+Nounce 2400000
+Nounce 2500000
+Nounce 2600000
+Nounce 2700000
+Nounce 2800000
+Nounce 2900000
+Nounce 3000000
+Nounce 3100000
+Nounce 3200000
+Nounce 3300000
+Nounce 3400000
+Nounce 3500000
+Nounce 3600000
+Nounce 3700000
+Nounce 3800000
+Nounce 3900000
+Nounce 4000000
+Nounce 4100000
+Nounce 4200000
+Nounce 4300000
+Nounce 4400000
+Nounce 4500000
+Nounce 4600000
+Nounce 4700000
+Nounce 4800000
+Nounce 4900000
+Nounce 5000000
+Nounce 5100000
+Nounce 5200000
+Nounce 5300000
+Nounce 5400000
+Nounce 5500000
+Nounce 5600000
+Nounce 5700000
+Nounce 5800000
+Nounce 5900000
+Nounce 6000000
+Nounce 6100000
+Nounce 6200000
+Nounce 6300000
+Nounce 6400000
+Nounce 6500000
+Nounce 6600000
+Nounce 6700000
+Nounce 6800000
+Nounce 6900000
+Nounce 7000000
+Nounce 7100000
+Nounce 7200000
+Nounce 7300000
+Nounce 7400000
+Nounce 7500000
+Nounce 7600000
+Nounce 7700000
+Nounce 7800000
+Nounce 7900000
+Nounce 8000000
+Nounce 8100000
+Nounce 8200000
+Nounce 8300000
+Nounce 8400000
+Nounce 8500000
+Nounce 8600000
+Nounce 8700000
+Nounce 8800000
+Nounce 8900000
+Nounce 9000000
+Nonce: 9087906
+Hash: 000003c279cd3f1085fb4eb61a223b2b0bfa109c52b3a6e5e8169405b6ed561f
+Elapsed Time: 24.3316 seconds
+Operations: 9087906
+Hash Rate: 373501.92 ops/sec

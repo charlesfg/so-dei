@@ -1,0 +1,350 @@
+
+PoW, difficulty 6,  block: "phK71hp1mjabvYjJGSyXacAiSDwZm2ORZYNQ40Hgaf5J3eQ7uFVKfTswVcJ7UXMtuZ7oQEIohDvbf9WPCpXi9GSUgZRzwdgg1eIFgQrETcdybxBedZAcdQu7p9wZcR4RtCWPTBRkdsZ3gYV7xTZOjHMMG6jgLdy4gIIxKXXlGuckJxh4G4HnBTxHPXnbyZT"
+Nonce: 470618
+Hash: 00000043fa83d24212614652de382e3a573237c02055204b2365bb0c9f50213d
+Elapsed Time: 1.0173 seconds
+Operations: 470618
+Hash Rate: 462603.40 ops/sec
+
+PoW, difficulty 6,  block: "gZFqxbP3LsdSf8Nk2SL3l78ySlNG9hZf6cJr3YkFGBVk9gK1yTsZQqOiQZnP4Cszc1gWPFZWEu6ERE3FXkfmQrIeEvt9xZyQQSkeX90ctueAwXGH7jtMO2qSnYRZxDnEWLgtKUL1Ep2yB656fnItdzBELRb8UE"
+Nonce: 24265667
+Hash: 000000ae16338918adaaceab56fdbfac4346e6bb2f7203c43a7a22ba3d1695bf
+Elapsed Time: 51.3589 seconds
+Operations: 24265667
+Hash Rate: 472472.38 ops/sec
+
+PoW, difficulty 6,  block: "qNgaX0jP2NFqMBkIeNPLqCKuNbMLuOKYcqwxfWAXhFCtEm1ixGrdI2LTRVf9knYATKvwgwKB1Ku6wkcjoKAxALGPfjPDMnDexyQSiYRaiCUUmu1O2190BGGgnTjy6kQrWg753PTbPnuzVjDObDEaHI4ubdgVBwDXR8SKNjlcKTRg3TsSWwqd5kLUBqqCct"
+Nonce: 4451284
+Hash: 00000070b239ade2c7d66e6462f2198a1159a5d8de8cf8f9dba921c77b4264e2
+Elapsed Time: 9.7257 seconds
+Operations: 4451284
+Hash Rate: 457682.96 ops/sec
+
+PoW, difficulty 6,  block: "tpq13PbTauj4l2m1MWhnPHykIeQI57immMedZ3xxnUrNKREWom93rvd0Or8HoetPoLsCEdzqxf35u5RYhOQN8rDMZ9TBcAOEK7GOY42MXtFFpXcKjsXhXYruW8ww98yH53TSvMcI3hLg2npcVA7tZpbtnNdkKRrDK9V5LxBCVLjNyOpIOnzlQQS1cvcmBHpJGBDPyCSJNzXCDAKPl711NJtp3"
+Nonce: 2967334
+Hash: 0000004c96e85443813ebc404f11e299b580521f08467562640a6b34c1543f3a
+Elapsed Time: 6.2843 seconds
+Operations: 2967334
+Hash Rate: 472183.98 ops/sec
+
+PoW, difficulty 6,  block: "R4O5BT6EiuHy2UnNUoNc4xZvon2VQvcinrdpAXrgFyT7H6KZjW0dJPMx0EHHyjnZOEEMburggAcl4mBd814HEG33LAA7hlWupZ4EJlkpjCRcnQ5lF0rJ4kCFiACDlXvQwqU5P3kx3zPgFIGK6xS1VS61T722UoHGSZ9fShSKXfocoulkf1byJWpaRiRlKYpcxo5EJMOgr"
+Nonce: 3906125
+Hash: 000000d1c9f488644088b51a7e7b661482bc6bd911a252ea861d0b38d95761cc
+Elapsed Time: 8.2376 seconds
+Operations: 3906125
+Hash Rate: 474184.65 ops/sec
+
+PoW, difficulty 6,  block: "7Vli4GXV3gri58EMhOkKoVwkX6wlcbcZvB5pFSA8xqfqoj2KyaUavF8HBsqdKI15HukNBiJyOoe1MUB8uTYdYXkXDR1NXqGdaqoZNxNbapSm7Ripj6H5RpTV4IgQyntMRVmeGx4gbKGYaoC9jJ40yNJtVq9HRqSgB49Hp1mEBsdbVdY4mTsYe0HyeE3vsLPtDOztDb"
+Nonce: 2524690
+Hash: 000000f1662a9eb60721f0f7378bb44fd6b5e120fa343ca4501d5f62b08f09fa
+Elapsed Time: 5.2949 seconds
+Operations: 2524690
+Hash Rate: 476813.35 ops/sec
+
+PoW, difficulty 6,  block: "FHOgcr3URMBqo1vaVyUGgfTQjgFQjeBolOJC3CWLMXzyOkPhWjl3E5HlbKz8o1lPFuP8umH476sKf7r1gRujMzIl98jnzK122G0kq8em2LuXIZNnq5K2vSbuOBWBJN3CRsm6oFigQS2WpD9W8HMtYocmpyow9fyONZK1csWs8OEoRC8NJK5fyXIbJuOGPAUdXdUzJ"
+Nonce: 10057867
+Hash: 000000438b122aae69cb9f46243fa96f3aed32159fbad76cbd4bd269fd8f5a8b
+Elapsed Time: 21.0003 seconds
+Operations: 10057867
+Hash Rate: 478940.14 ops/sec
+
+PoW, difficulty 6,  block: "fG2kuHkqVr0QNnlTEsDQySRGvmhEcrs7xlffsDLBv9R6m0PpiQ5UiKZSx6UPnCKalq3StETcEjYoZlT81PQaXpqKmAXPAiokMf03kJWmqsQEUkALxQjK6NViLqvKMXuY3kSbrmBWUPaozaykqVvkjEGus245NmTEKjf2LeOgumIhC6IqQ1Rz5XhlNagbCyfLX9DjdPDL1Lt1G1hUsyJlMoKXEryFfSO2PRZsea2TklKo"
+Nonce: 11385434
+Hash: 000000abab89cc32613a7cd4361974b0205907685bf997ca019802142a470cff
+Elapsed Time: 23.9945 seconds
+Operations: 11385434
+Hash Rate: 474501.63 ops/sec
+
+PoW, difficulty 6,  block: "r8GeHpotzBwg0z9GD0VUPBwo3FOeP2440AY5pCodEY92N98QxTiCUUoMZ2qmsjhgh5bN8EqAcn2qky6XFdYXxCjL3QxlxUIUOhfKjJKCxAqVwmt1DFO1HyC8CxizGoHULnevwmvhmb3YBkNFpb4uN6tNtPAz3I"
+Nonce: 3143792
+Hash: 000000764714db40494d32eaf05c9a6e91aa6f1f34a2c5d96d37f356ae645b20
+Elapsed Time: 6.5843 seconds
+Operations: 3143792
+Hash Rate: 477467.55 ops/sec
+
+PoW, difficulty 6,  block: "CvlvfLgDv54H7cUAHu417yiLhxLVoRarAAcgL7h72ZCx1Xx8HrxCfULBFVUumubnu1H4yozpD1c4MQ0T5lUZ5dYByqtZYKCJ9HByv0dwr3o4JeLDDda97y8terI2zI9yP8k8yBue5YWC0fF49d14RznteukT2hFIgqESrzukLEnAkq2hKtZZgCH8upRnMWtqAx7qkpQuu3uUkkzsTOHxOMv91AkCUTsTEn9pTPZDHHVprIX8Uct"
+Nonce: 79867915
+Hash: 0000000c8f5c20033e19bce895e47c13f97f0059112953ec6e35c926a42a7288
+Elapsed Time: 172.6970 seconds
+Operations: 79867915
+Hash Rate: 462474.20 ops/sec
+
+PoW, difficulty 6,  block: "pcfecDguUNDZ0ACJQZKVedALlVH5x0caS55s7baRoeqdeqksFvDjODsyYzrKnJi3DdlA3APfe686kjpoSqNes4SEtAOVHxOIOyGHyWnQQlM0Izeaeq5MkLQRJdkPOzVclciZyLnCux21lVRF9KPjUfyb6ZqKMClx"
+Nonce: 20032386
+Hash: 000000d4156c4a4b34c653335da8ef8797339277fcac0bb9ede69b80a49f6e15
+Elapsed Time: 45.5462 seconds
+Operations: 20032386
+Hash Rate: 439825.46 ops/sec
+
+PoW, difficulty 6,  block: "JKOSxQAkG1LZHOYPd5j7s93HnCRpnEFuMTC7hChm2rB93YOXTwUBtLGWNXAyZFilXki4lEgdtgam4o7LYPLHbReonebCh9m4iIxJKRk1xAepmZ19pAGGRis2AJ3iHdaplLyudWlOWF48dt7ItCM8i41jCsFJLdywpkgG6IUQLMOm3KukK6jszYPzGS8RwuBZSgfOmxcv8qY1yIc8D9"
+Nonce: 2718358
+Hash: 000000d46ce365e0f07250d5b0be93805372f18c2db6a8383570c97e8a05f1ed
+Elapsed Time: 6.0792 seconds
+Operations: 2718358
+Hash Rate: 447154.54 ops/sec
+
+PoW, difficulty 6,  block: "0V4pZNlo7VpUlJxzvkRhi53Ys9yqCvV2GQfdbGHWZuqA4dxnBEIi8B6qBsUBdq2j4XATeHp31V2twpXvsdTqfNUe5odYSV5Mr5dJCIA2b2jNi49QYQ41eOTZ0wyJGtTxnx4n34dVvDgT7dhTubKOndndOZkUH2Fun9Vg1zzm2W3xzYHjzPvarZ25wcN3SSl3P7aGuPrkjiXZ7c6uqsL"
+Nonce: 38153349
+Hash: 00000045533407fd95c82f17ceb1a618631db78d91993241e57401c03f2dd555
+Elapsed Time: 84.2164 seconds
+Operations: 38153349
+Hash Rate: 453039.38 ops/sec
+
+PoW, difficulty 6,  block: "FDS1ddtuvSnANBE7RthyS3NNTI790IU5LkunDdXywAw9Cz5RiaFyTRBlZ9kNH5GRf02jSPVENGBP54ebVkQmzRNMOyZUrfjKTbtlqDn3JnHChld2Jrf67sILefdL8CUSdD3HEh9LKENpnrgxYBrVr0fKT8TSBnicpbit6f3EjGu"
+Nonce: 4948342
+Hash: 000000725cc5e348656d668950196e048738850196ab984c2e3b9135633f9343
+Elapsed Time: 10.6249 seconds
+Operations: 4948342
+Hash Rate: 465729.20 ops/sec
+
+PoW, difficulty 6,  block: "vQ7IPpb4d6Ew3WC29kSmA0U6TN92RrDD5ALKnkCGfF1Yb1OYcg9aVTUogThvAiy5i7DMiEQBJFZi7n6XH5xcMHHqZmcZKQTqMU0sYHthMIFHtAe03RRGXYww8OJIdcynvnVJuEp4KsC1qepkw6oJSa5QnEYEfLrOyCXgEAYOrYFX3u5npju78nOjpknKtUWfUu9Y"
+Nonce: 61598626
+Hash: 000000850a2bfb53d09ae534f5a78d674622eb300f3506dc6555606fdc7b774b
+Elapsed Time: 133.9146 seconds
+Operations: 61598626
+Hash Rate: 459984.43 ops/sec
+
+PoW, difficulty 6,  block: "YkZunxnVsOAQ86OlKxRsYZcqw5Ae5WKR4kBhVp0B1zR0vdb3QqloGBU05SS0mcFgCGBVt0XlpmbaG0RWh09l2RZvirlKJopKuqdcg0BJbchhQy1vp0UfGtQoYzygdboLIHnm6owXER4VGvEtkZOqGeSdTE9w"
+Nonce: 39150758
+Hash: 00000088c43feaff51f3c6d7bace3b83f3e4904d8e3774a391cef9a4ecf32e8d
+Elapsed Time: 86.5908 seconds
+Operations: 39150758
+Hash Rate: 452135.41 ops/sec
+
+PoW, difficulty 6,  block: "n7osjOoN8BQQ3jUpnDNAR1FtJiCNhwtIrVyOidcgcquWPC92FM1UD6DKeDX9zFFfa3t8UJdxzLHEOG5RQwmRsnbKrwJe1O9QFtMa0nLqzQsBUnSiX2zDgONN8Wr0ipEmWQAM2L2rZjqtK6RizElVSxgQHLEq0GQMXQZNZP4yyih9ewfR0E"
+Nonce: 2371719
+Hash: 00000016610b8326cf72c1a7abd08a37bc1ec47bad6f998f2051bb8d7a02694a
+Elapsed Time: 5.1621 seconds
+Operations: 2371719
+Hash Rate: 459449.19 ops/sec
+
+PoW, difficulty 6,  block: "I1GW9SZnIf3T0JsDg55Usdzp6lKNbOyhE41DKOqRuhkioQmKJhe19Rg52oGR14w5xn652kMkHuIv8u3IQV9NmeGcIMt9Fd20Eyv6W6edqnMpVFxjauuAO0cXBJUEmL4r7nlUjGvOr81ABoiaWSalH36GCQKpbCUXp5rN9cboYSpa4L0QdQ1iHxoKCwxbyHyeAdpA6GoU"
+Nonce: 71561355
+Hash: 000000f956432d6b827bd4fd04be049f61f16b6704a42f52445e89caaacbd849
+Elapsed Time: 153.8873 seconds
+Operations: 71561355
+Hash Rate: 465024.37 ops/sec
+
+PoW, difficulty 6,  block: "RuQcie4zWc6HHEH1zhq4TI5xx3t3fBPvudNS7HFRiAXnEee49KwTSrGDix6EyJzimAzkG41o4MR7rtzq4l7KRDOz0I1nSqJ2p8av1QZtcoqJVfyNFvYWxkLnqDO8rYzUWPFLfc58EjFaD3nIn9cajnBQoQMUo9o8PuKuKDqPkwpnnQtQQLoxzqBb6MviLYeaGmJQpzfQjI1N"
+Nonce: 9374834
+Hash: 0000009d9c31360261da1f6c2572d6c9f910b8f932c40248db88998c14a41b1e
+Elapsed Time: 19.8752 seconds
+Operations: 9374834
+Hash Rate: 471684.02 ops/sec
+
+PoW, difficulty 6,  block: "lbpwEajucBoouKzIoOORXd4K8KsFA3elUHXYf7G78slq2ZzfnBw8eoGbxygxr8YADvWisbeoHFVAcIdFJNBm1GDo2hZkdxigj2CPTg2bkLZCT0GaDFC2LDfEi4mBsIfPAicSCUrmfEnw4rN5wNx8PSAxNmz3uUIs0kA33pdWtGJnxUiifUgukegxEVownuecTdVMIwi03pbo9AMfSqP2KvoME"
+Nonce: 19843723
+Hash: 000000e7d0c869a14b42d5b55e8f6fcf75d0f0ec55b5d0552887e6172af0733a
+Elapsed Time: 42.6683 seconds
+Operations: 19843723
+Hash Rate: 465069.06 ops/sec
+
+PoW, difficulty 6,  block: "8qDdIW4bgANE0EuSttQ3MiicasLC3OV14WUAsMbONoQDt8VaqjT2H1Sgieibq3QkPli5x9HAlYCSWVsC5A3CzLgVnFuT6B1KkZFVWLU8jWQ3r74m5xnu6JEkOy1LxrTXEYtbjDXGZn8Ei2rdnUMhbQFqC7z0mINqe4FC7c"
+Nonce: 3153252
+Hash: 0000001dd031b7bf0fe4317a011344c27b670e213a39df3b7917617bb0b93454
+Elapsed Time: 6.5386 seconds
+Operations: 3153252
+Hash Rate: 482249.87 ops/sec
+
+PoW, difficulty 6,  block: "UGEZm4EGfWSDxgIbiDOYnWkUzeZzc25u68Hi0LmUf2XTYds7f7TIR3cEY03yqxiktqGjzr3VjOm8qU3LPMThGuleidSOQ0w7e0gUhYnHmPFSh6bxIvSOd1qBU8Nix9fRzAjXYMc8ZhP7bqsjZAy2ze1KbEqOBKd1KBMg"
+Nonce: 2063814
+Hash: 00000041125197c94427616cc997f48ea399834cf061db49fa3862c74e342f52
+Elapsed Time: 5.0559 seconds
+Operations: 2063814
+Hash Rate: 408198.49 ops/sec
+
+PoW, difficulty 6,  block: "oclJpgkUMHtK5k9YZHxew9f6aUEbeklIAKPqoxA05rAyP7MpF7J16mvX5zwZXXgXhvDLjBBet9Q87dlAauzVVksQZenu2JHX3JjcIi4ziKydlZdAIQVb0BrNfU7VcCtVJQxSypHUx3vXRMVZcq0SpffIxce"
+Nonce: 5061693
+Hash: 00000088f5229020b43443787f03f6cd497a8cbf9de3b6dd12a74860e29732af
+Elapsed Time: 12.5608 seconds
+Operations: 5061693
+Hash Rate: 402975.53 ops/sec
+
+PoW, difficulty 6,  block: "dLkmbV4N8Aiw3THKgch6GVPv0s3oJV1mgcO5xHJwHpg86nJaFqXJAm40UvcdHUFlwSfhZoReRxcNYjobOBkOncE5OfXTzc2jsXGF9YjQJAeijG9xHiBsAElOj8fWZY5HvBNtXw9hwbFUfCHkkHSjL2vs0REPp9VY8iFWSD3Dc6X86cifjzEsrzYhEcvrZGGYoLs4O"
+Nonce: 6034257
+Hash: 000000c28728adf1f6d4e6b58021abf22844e660e4d48fe1ddefac340691f77a
+Elapsed Time: 12.9968 seconds
+Operations: 6034257
+Hash Rate: 464288.29 ops/sec
+
+PoW, difficulty 6,  block: "7rdSnZvL2SA69puXNyy6gNCkjotPg6yelRuOpdXhwWevBMGM84IeGICpuu3RqrtR7ddm7yJrKlaMxgWuZdMflPIU9BlnrU2ovVQqJXXS9vcuQyepRrI14OL3Oug5EYjzrxeyK1GHli21VUekBkb5ykwCUQ5WmeKTPoIadMfEtX3EqVor3Elsm"
+Nonce: 13107682
+Hash: 0000007e09a55dfe5bf5702439dad578ff0c5b62c27e4992f8bfd276bb65a110
+Elapsed Time: 27.2223 seconds
+Operations: 13107682
+Hash Rate: 481505.42 ops/sec
+
+PoW, difficulty 6,  block: "s5moROGZiUDoshyNjhjbjPwM4oOfU0zCvboBptaLDcxv7k6eFf5puq1pUFIo37onWRmAACJBc7wZfs4kMxP6dEjvHqZBlCm6TO6ROFSrACEfs6G4uTzLYW7dAUcmWEgnQc4ffMKgOMB7JFz1XoCvB7MBQplmtFQ"
+Nonce: 8031185
+Hash: 000000bd0b284276750285cfe0e004b66f6593e644b9d528e775d47a8dbbcce3
+Elapsed Time: 16.5005 seconds
+Operations: 8031185
+Hash Rate: 486724.06 ops/sec
+
+PoW, difficulty 6,  block: "hIdDVlhjxge4mUv96ws7r477hgiRmwPH4qIPRpxEMP9wjstgeZbMRWHz1pEbbRiW7rjOUWQemNQJ67nYUDimZqbOTdpvuMFr3o3LBHqlV4uP2WlMZIwyyLBFoqyY23Dtg65fClGVdykTKJejRQWDcXJGD7d4zgnVbi0dH4yjsW21dWavlwyDH5HJ1iDqDq9eNx5SrrzXDsOgCnPnXEof7uoySpcVVbxgMsx3ZmPaSb7VEK"
+Nonce: 18187697
+Hash: 000000a8fe1394e3021441fbbe079fcbfff66384078960415872f95ca37a2faa
+Elapsed Time: 39.0354 seconds
+Operations: 18187697
+Hash Rate: 465928.88 ops/sec
+
+PoW, difficulty 6,  block: "cOl5MVh8nMb7f0uADbx40XHRqjMBnW7Dji6t3brfnGaH5IF8j00YN8n1hz2IJyKsWGZOiFrJLFOGNTCvJ3JVzwMWjDcs1mZLryXN1CUDHhHT0IE89NRy9bIiekOTLnd0ayBR1VS60aPpgTnfg2TdTZ9y7OFIzg6PV7fMRxGHLWwrpXMKPdlh2lTyxY6m510OyVYDIe"
+Nonce: 27851432
+Hash: 0000003b2d2190f448470a54f73584e362d1276511572e8d5820ca90c9128892
+Elapsed Time: 59.1082 seconds
+Operations: 27851432
+Hash Rate: 471194.06 ops/sec
+
+PoW, difficulty 6,  block: "S059eRKmelNBcwUQjrKKkB8yyTM1ZqArf4p9LxjpYwryh9EEqNMQMKEAdO015yiaqLX184fXqKJLJMQyZaCllFkETY5MKck1n5qmzJ7eTEpbQ3NpUNP3Sx5kJzuTRVI2OxcE6ZiOcLnsD0WVDlOUWH2f6mwN73EMogOk4uwW3ZE6NaPP9bhTjZydBjr7avJEPVmJFZf8wi388GL6gsPFHCiIjNF96"
+Nonce: 10785078
+Hash: 0000001c837eef28fc5d37a55fc8ccf669f5f5d74f5dd0b7bbe0789f43d87fb4
+Elapsed Time: 23.0236 seconds
+Operations: 10785078
+Hash Rate: 468434.88 ops/sec
+
+PoW, difficulty 6,  block: "BMhnTkAzjvXatTg4NCkbFrdmxAx39sD84jlNJkAqVVGCnl40lePrJqR6qCxnu1lmYN0hvyOGISIv3CjfezKnfZjKbVxMKZyikmFVZRZhkhQbhz49oCmIbJS1eFBoczMAaQTxhsUFNkhsXbrAeRI3bYu3bvg4jq276Kuc2ChEkEu7ea78rF1Gdm85Vex4Kn1FxjholEsL"
+Nonce: 23503386
+Hash: 000000a996665f27aed9140931236f9853a666d3544865bbcf41ab2aaed07e84
+Elapsed Time: 50.6704 seconds
+Operations: 23503386
+Hash Rate: 463848.61 ops/sec
+
+PoW, difficulty 6,  block: "cJl0EjiKYml8keUCPMN3CSqlxUL1AU6bbhRgEzodaPZAstD74O06effRzoG09DPYig4nUgEuwdscLtZF7O9btcqgFxUCyjaWET9YzDGjfwBqgZtdnq3UIh0NSLPGsodw7aIucOU7BTlfsU6T8znGVeS"
+Nonce: 9229151
+Hash: 0000008e1cfa255f0451615bf30d15db4080827e6e3c437e69674b703af2a0d7
+Elapsed Time: 19.4663 seconds
+Operations: 9229151
+Hash Rate: 474108.23 ops/sec
+
+PoW, difficulty 6,  block: "nfuTJLGEjOz9bH4aaf5Jx1cvpE0AgGnJlVctggvEviDKp8kGdfPPUp89ty9P4lWe6xLbT6fCfiKIeuO8NbLiFJfy6dCyEWSAHbZZW4bzbk75UK1glCCqKhdGAd2CxJB5kaU6VtvwTrpm1hGahIFrngvm9omux"
+Nonce: 54254235
+Hash: 000000166a6c5e3ea4e5d47de6a6186a2c5c5bb2aef529aa2b423596b40b2884
+Elapsed Time: 115.6172 seconds
+Operations: 54254235
+Hash Rate: 469257.52 ops/sec
+
+PoW, difficulty 6,  block: "pVE7QZr9J8qyihTo61uBgWhS8g4kOpO4AQ1QngQwf6iBc2qYrYZNu4dsYXRmCdgBtWRW2fGVaoX2eBOJZlXKfy03MFfMiANRWflMArgYU1Ow0c6NBRXeFMVPRzcyzpDJIpTHUxfoouZcKTqKiBonNA1dzTPm6StF5CMQ0p2cZR3iijsGk"
+Nonce: 58214871
+Hash: 000000ae07323981ef34a6527f9f355dcd42675bb5fd3c6591b15ea733a61954
+Elapsed Time: 125.8165 seconds
+Operations: 58214871
+Hash Rate: 462696.64 ops/sec
+
+PoW, difficulty 6,  block: "swUjNH0crwuazqb96PpwrEEkmmHSrspZc78pFyHuizLYfmXZ1AMgFOFpyM8f2l4Ug07jmEUL4fhXF2v417a6Jdj7ofbgETzlKwKwzc5r7aCARx4IsVC1wjxaFO7Hhuspe1cRTV6Pu9PBwIHfdJUPsHovTl1zThexW4DqO9388G7tOEMpNg33mhn5GesZ9NKWFNATL3RJ7O0MSCzdhsVJN6CTYvqX61tBCrVNkkVi"
+Nonce: 6574107
+Hash: 00000071b8628ad3d476cf8377fc4ca3f7ebe791d474f50fdcb94146281977c7
+Elapsed Time: 14.0251 seconds
+Operations: 6574107
+Hash Rate: 468739.69 ops/sec
+
+PoW, difficulty 6,  block: "JsFMhhrO00bw0vIjbfdQNfR4yedYxBL7rPHOwycmm4WcneAC7dTK6kDuCgHyfQtMf0YPo1zOtLoWnoYlGptCNwvOQ0CvGv5klUzNJpZ2yDMcqiDwOuwZhfnxVphcYcA7wzK5ehvTl7tRguBsexH9TtvmYSCvuCsf21YUYKl9FUOjCNPhBVgSER2ah5LQ74txvHIJPtHTCT2"
+Nonce: 15791483
+Hash: 00000079d1be5f480e6e91c6d7486792a1ea04da4f63cdd0859257d9b6067800
+Elapsed Time: 33.9733 seconds
+Operations: 15791483
+Hash Rate: 464820.12 ops/sec
+
+PoW, difficulty 6,  block: "hGjgbEwfTo31jFHh90Us5azJI6cKOSMvYwRz0DSJrM8PRDuO1C4xdt6loWt2o5lBr20f3HniRlxgpfugioRBVLk9hTzKOaL4S9XJGAqXkb3P7ltfNBejMEgsVW0hwBZDAxKFx0aXSUkP3UsHTModOIJje9GRAgS9RcECTeYjw8wqQevjqXB2fKbAKfPK9fHQ7LTOorxanjE4DxbrIcjol8mvez3dUBuPKBeysPNVxP"
+Nonce: 4808871
+Hash: 00000095bdd2104ea52b7ac7fd6166560edf28b743c9598b4396e2c78b7db09f
+Elapsed Time: 10.4453 seconds
+Operations: 4808871
+Hash Rate: 460386.28 ops/sec
+
+PoW, difficulty 6,  block: "yBneJFDvoAXZeKR5cSnsaoKNUXaoKnz9ocbygejKc5k6Dz0gFdMfGWsarGC2u2zYUQK0ssBLnjFqY3KbXW6bqnzYt2ObuD0CR817q2IRZM8vFGMadG1Htrfbjt2RusTBpK9VAFnXRjGVpSvGXlOGSrhzbaGLGXL"
+Nonce: 19517507
+Hash: 0000001f7110a45cd63fd5015c82cd48909c160612d93fa0309756d4d5d8e5ef
+Elapsed Time: 42.3838 seconds
+Operations: 19517507
+Hash Rate: 460494.64 ops/sec
+
+PoW, difficulty 6,  block: "gIFeNs0dR6w4Ph9mINqY2MNTkRdqnmaHudl5LbYaYKSlqRLwezLVBWmloFQPpoWXH7TSXrqt08UeQdQsSZDUwq3YtHnXv7u22DIPtw8hvQB9rRrArtSbXJxGRYbCVM3NP9b6wXdfmeeTuJRZ0hyNrlS69t8S5zfJx4DhShC49eNrlfGcA4prd7narkskXMrKGvpYQrSNJe5v79N720pVyQwdycBMmtUtcAFspW5z0yixyvuqj"
+Nonce: 12627911
+Hash: 00000054691da8f53cf933a33549bf0ef8eb6c4c6babf64fdb6685009dd3d4f2
+Elapsed Time: 27.8944 seconds
+Operations: 12627911
+Hash Rate: 452704.80 ops/sec
+
+PoW, difficulty 6,  block: "9VotwaMymyf7f75lnk7gXvT5iHoQvOoujQeWqqIRcnM6iHhJpcnDL68rDn7y1jhYxBscp0tHb5D9AiIp8usJqr0sSweHVBfJCMlrCSxeNybLXi0TSjb8ORqeDLlXMEeNQD2RVptgeKrzsfG8Ch5OxlsyuRL5WnGkq819midEtK1Zo7WqdR3Q0lEj3OeNzixggndIJ7M2FDQt9mYc1Rsr0uQt6s4wQqSxT"
+Nonce: 2817453
+Hash: 0000004b388618e57fc56650072f9006bdd8974fa0cb4816bc0adea8f4b30dce
+Elapsed Time: 6.0561 seconds
+Operations: 2817453
+Hash Rate: 465229.17 ops/sec
+
+PoW, difficulty 6,  block: "3aqGTwHhdGHzi8GOp794o5mhr3N7oerh4VnLFtsjzzYWvdibYhVAb7hGyuCcOrAJAlUGUBpI0BcmeAB2gU35PY9EJ9eXqeerExxWyaemb4M45NuZflUvARxJRRe7u7myuXKgxnINfVFagzxCZHvZZigoz8lj5MVnjeJVHQgmljBFYwFx20KPYq3MnetioFKMjTf"
+Nonce: 17652001
+Hash: 000000b59e579cdabdfefe78e305cd63c0e7d4540ddb41c07a76847fb6f240fe
+Elapsed Time: 40.3373 seconds
+Operations: 17652001
+Hash Rate: 437609.72 ops/sec
+
+PoW, difficulty 6,  block: "jBOIkNM6ARs2G2HchAoKcWqHZ0R6KwkrxwyVAAP8R7yVy3yV3cdTwJYL8pHGbpxMclfajvWzsKKgD8z4ZQNLYmXWPccrIN1kxX8WIULyeWTfUGZtXk3vKQFashF0u6YfRW2ZoDMGXflsl8Z6jSrtgwHNRKBAHYfWsVuXZ6dubDaAB07iGmQlXXwoixmnJG92btNynqjEr9DrxAP2kdb7zNkV8K8IQ58snLgOzFRhDUMySZ"
+Nonce: 2118053
+Hash: 00000004a94dd8c2db4e506aee3241b1cebe7cd24ab3e879c854519ea819c757
+Elapsed Time: 4.4638 seconds
+Operations: 2118053
+Hash Rate: 474492.84 ops/sec
+
+PoW, difficulty 6,  block: "23HysSWBRg9Xx2VfdgBsTF9yGRA4jajZRqN77h8OE5j1v4WPYV5rY2ecJeXq26FJkREhwCt05SrrKB4iVxOrpsKwKhcDbfKBuPhhPQVLjD0tCuQXhcFKKP6UuWVLzeKirpD66YFdZ3KcnYzI02QAFMTxgm8UGH"
+Nonce: 21413214
+Hash: 0000003eb17852f3b5dd72f81241f170e15a965e5d743a10c48d81dc3c60b304
+Elapsed Time: 45.0090 seconds
+Operations: 21413214
+Hash Rate: 475753.66 ops/sec
+
+PoW, difficulty 6,  block: "xw5sqRvHrpSJQq6Xhznf2ywqUXmmdtePeX5IpqQWTifkMb5rOiLHW7xpSZRwHu9jH4rwi7G2djaoBTVN1eSMcFzudEeiydF4Vwq4svuJUIxTbHhQlxcB1PuUUO0Iq5C9pr1VajfurQEGXjX9WxANBufV7TblMei0JaLj9oRp5VtS2EPN0QY184M3LncYFBOMZXvYCDB7WvNNzdapryenqqh2S7OX6a"
+Nonce: 33543897
+Hash: 000000afbd9072b3d8df5305a8ef17bd25801e8ddbfba2c6b9be205fdf2bea93
+Elapsed Time: 81.6918 seconds
+Operations: 33543897
+Hash Rate: 410615.05 ops/sec
+
+PoW, difficulty 6,  block: "VxTsxUtupc62QZS3GEYtvCOnUKzqGNOc8fKwy1edUaVkzlb3pzla2zBK9y0EBCgAiqwWfOxzpGXcrzWUm5tcusnshbwgeSgC6QWbfJPIPki4X2MAx5agoDOJd8p7OK7IaTh3aw9nVgfsYrsKnJqPK2Wn09iEJfKiwrZMcZzx5UfRAMblTHyd9KFxJn1RJ9z3rOGJl34eMZwMjNx2TlUQvZE2A3HH36BkJH"
+Nonce: 8964905
+Hash: 000000d0a69dec56d3b1546eea407f398ccdd9edbd5f9781109e77a752ad03b6
+Elapsed Time: 20.2532 seconds
+Operations: 8964905
+Hash Rate: 442641.34 ops/sec
+
+PoW, difficulty 6,  block: "s8lNK87WiIJYbussdHwUGpbNgWOEdTvLSUWcRTzxc6L1p4jG9TaF70TdKfilzRwHkHj1aWm0Tvs8pPCnjdqgR97ZddASvuZT16IQTuEkfwgJCiwj9aDOaAn1elJNWgeLcmZtUeRzOx6OUqxTH0ifzJWRvfcF96QZioJ2GYpUMmhgSUxXJV28dONOrpRqlhE"
+Nonce: 31600359
+Hash: 000000acd5c53a39464b5aa1795981e657a803137bdaa4d9abe7ff9e8c548143
+Elapsed Time: 71.7971 seconds
+Operations: 31600359
+Hash Rate: 440134.39 ops/sec
+
+PoW, difficulty 6,  block: "JN7PjmitMFNdXB0gUrcx3p9lUQP3wTA5e5JEipxsuBJFA8mUpEGisFHCWX6Go49J0ILWv6Cd5Mj5KLOxNUT5Zb6tw0xasxjg5s2pp3IkFrgN0s8CCR7Zs1Jer65Yrc4lLvQyoYYrG244k06kH2A0tHSZBLxtopU"
+Nonce: 12999821
+Hash: 0000005c44c9a4fcd3549d9db0fa7c4253302fd6f30e70bab44d85bfcb367bbe
+Elapsed Time: 27.6669 seconds
+Operations: 12999821
+Hash Rate: 469868.98 ops/sec
+
+PoW, difficulty 6,  block: "aklE87vCyn7Wd17jt7XbCpyD1jwdOGOpqxrnudngEi1gayFHtcivHUw63jXGnlvSYa5H1gn6FecdQfk77HqCbd7TAUZn6I5UiybaVDWafw3wRbrMiYO8zLRzeqcayYuUKKufNE5s0wcFOKPwgeuVn9KHnkfZ6QuHYemljgRXSudg2sRYK9tw911mbXAWlud9ODivjzJ0hkUZQlx"
+Nonce: 60346967
+Hash: 00000079f9d072dae57da1655998bf8bb8839ec8dc9209a242fd659628abe76a
+Elapsed Time: 135.3085 seconds
+Operations: 60346967
+Hash Rate: 445995.47 ops/sec
+
+PoW, difficulty 6,  block: "leJiV8IvTIF22i1FjXyHN57sdRIs15FaYO8tKGceNhWDDMInj5su0ndS4lAteFJ2RHkbMC5ZiQalchMBc4wQfNiYyiHSlRJ2WtUgtN3RdU351D5T6pjb2Gzqm76OMDEiwWFgk8vBSo7Jq0amf8DXC3Bo050A95itRlNzk910lw8RmW3HS7cUyd9mYxmXsIH8uUxSRmG3YEK8ZCFr9fCv89XVw9qdHvbzEMHVzOOLQXK"
+Nonce: 12779352
+Hash: 000000d4e548fc4526860bc8f8fbcb0762f895ef9a1a63d95985dcca694fafee
+Elapsed Time: 27.4408 seconds
+Operations: 12779352
+Hash Rate: 465706.18 ops/sec
+
+PoW, difficulty 6,  block: "ZNVWtVHpUe8Ebphga8WeJby6nCH4XRhwd0GKLNzdpyiEdFl1C5ULWIHAIM2gcXQ5OXFZi23MqbQHez7gsRpFXuDd559XQOSejV2FNvR2Kg9mT4HCJwHgfIAaB7vRJDwsWmwjXDZfhZH1RM3b787cG50F1lWAmGr8sdfDg5g"
+Nonce: 49589036
+Hash: 0000000b31ef24050f2bd99ffe1737b095dd826fd83219c2e7c946b473520a5b
+Elapsed Time: 105.3317 seconds
+Operations: 49589036
+Hash Rate: 470789.44 ops/sec
+
+PoW, difficulty 6,  block: "So3jywAvu6LyzB3qkPrMUYIC1mGVhmXxOQWDAVwuP8iC9ZtipYs7u19jbD48qQt2gD3fYqPlowolLVJyt0vdrtCIw4EaKxTp0KKN0XwcHYETtLFaBz1qg3wSwyr4l8jaIrl7DXZKubbdlh2mUtR0lBGV0xPZvxx2cY"
+Nonce: 10998021
+Hash: 000000ea52396f5b70b689075146b0a44b76851c30fceae674079813e5705dca
+Elapsed Time: 24.3309 seconds
+Operations: 10998021
+Hash Rate: 452018.37 ops/sec
